@@ -103,7 +103,7 @@ function Home() {
                 </div>
               </div>
               <div className="col-lg-4 col-sm-6 mb-4">
-                {/* Portfolio item 2*/}
+                {/* Portfolio item 3*/}
                 <div className="portfolio-item">
                   <a
                     className="portfolio-link"
@@ -132,7 +132,7 @@ function Home() {
                 </div>
               </div>
               <div className="col-lg-4 col-sm-6 mb-4">
-                {/* Portfolio item 3*/}
+                {/* Portfolio item 2*/}
                 <div className="portfolio-item">
                   <a
                     className="portfolio-link"
@@ -269,8 +269,8 @@ function Home() {
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>2014-2015</h4>
-                    <h4 className="subheading">Нашето скромно начало</h4>
+                    <h4>2009-2011</h4>
+                    <h4 className="subheading">Our Humble Beginnings</h4>
                   </div>
                   <div className="timeline-body">
                     <p className="text-muted">
@@ -292,8 +292,8 @@ function Home() {
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>Март 2017</h4>
-                    <h4 className="subheading">Всичко се промени</h4>
+                    <h4>March 2011</h4>
+                    <h4 className="subheading">An Agency is Born</h4>
                   </div>
                   <div className="timeline-body">
                     <p className="text-muted">
@@ -315,8 +315,8 @@ function Home() {
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>Декември 2019</h4>
-                    <h4 className="subheading">Развитие към големи проекти</h4>
+                    <h4>December 2015</h4>
+                    <h4 className="subheading">Transition to Full Service</h4>
                   </div>
                   <div className="timeline-body">
                     <p className="text-muted">
@@ -338,8 +338,8 @@ function Home() {
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>2024</h4>
-                    <h4 className="subheading">Фирмата днес</h4>
+                    <h4>July 2020</h4>
+                    <h4 className="subheading">Phase Two Expansion</h4>
                   </div>
                   <div className="timeline-body">
                     <p className="text-muted">
@@ -389,8 +389,14 @@ function Home() {
                   <p className="text-muted">Изпълнителен директор</p>
                   <a
                     className="btn btn-dark btn-social mx-2"
-                    href="https://www.facebook.com/omgfffomgff"
-                    alt="_blank"
+                    href="#!"
+                    aria-label="Parveen Anand Twitter Profile"
+                  >
+                    <i className="fab fa-twitter" />
+                  </a>
+                  <a
+                    className="btn btn-dark btn-social mx-2"
+                    href="#!"
                     aria-label="Parveen Anand Facebook Profile"
                   >
                     <i className="fab fa-facebook" />
