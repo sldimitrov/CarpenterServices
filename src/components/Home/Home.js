@@ -1,4 +1,5 @@
 import React from "react";
+import housesIcon from "../../pictures/house-add.svg";
 
 function Home() {
   return (
@@ -10,14 +11,18 @@ function Home() {
             <div className="text-center">
               <h2 className="section-heading text-uppercase">Services</h2>
               <h3 className="section-subheading text-muted">
-                Lorem ipsum dolor sit amet consectetur.
+                We are firm specialised in building light, strong and
+                sustainable wood constructions. Building everything from wooden
+                shelter to a castle for a whole bunch of people is in our
+                possibilities.
               </h3>
             </div>
             <div className="row text-center">
               <div className="col-md-4">
                 <span className="fa-stack fa-4x">
-                  <i className="fas fa-circle fa-stack-2x text-primary" />
-                  <i className="fas fa-shopping-cart fa-stack-1x fa-inverse" />
+                  <form id="icon-container">
+                    <img src={housesIcon} alt="gear"></img>
+                  </form>
                 </span>
                 <h4 className="my-3">E-Commerce</h4>
                 <p className="text-muted">

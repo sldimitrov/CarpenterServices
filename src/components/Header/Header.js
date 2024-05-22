@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "../../pictures/tools.webp";
 
 function Header() {
   return (
@@ -11,7 +12,7 @@ function Header() {
         >
           <div className="container">
             <a className="navbar-brand" href="#page-top">
-              <img src="assets/img/navbar-logo.svg" alt="..." />
+              <img src={logo} alt="" />
             </a>
             <button
               className="navbar-toggler"
@@ -59,9 +60,9 @@ function Header() {
         {/* Masthead*/}
         <header className="masthead">
           <div className="container">
-            <div className="masthead-subheading">Welcome To Our Studio!</div>
+            <div className="masthead-subheading">Carpenter Services OOD</div>
             <div className="masthead-heading text-uppercase">
-              It's Nice To Meet You
+              We offer you a place which you will call home!
             </div>
             <a
               className="btn btn-primary btn-xl text-uppercase"
