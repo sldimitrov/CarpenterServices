@@ -13,3 +13,8 @@
   height: 120px;
   background-color: rgb(237, 202, 63);
 }
+
+.photo {
+  height: 160px;
+  width: 160px;
+}

@@ -103,7 +103,7 @@ function Home() {
                 </div>
               </div>
               <div className="col-lg-4 col-sm-6 mb-4">
-                {/* Portfolio item 3*/}
+                {/* Portfolio item 2*/}
                 <div className="portfolio-item">
                   <a
                     className="portfolio-link"
@@ -132,7 +132,7 @@ function Home() {
                 </div>
               </div>
               <div className="col-lg-4 col-sm-6 mb-4">
-                {/* Portfolio item 2*/}
+                {/* Portfolio item 3*/}
                 <div className="portfolio-item">
                   <a
                     className="portfolio-link"
@@ -262,14 +262,14 @@ function Home() {
               <li>
                 <div className="timeline-image">
                   <img
-                    className="rounded-circle img-fluid"
+                    className="photo rounded-circle img-fluid"
                     src="assets/img/about/beggining.jpg"
                     alt="..."
                   />
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>2009-2011</h4>
+                    <h4>2014-2015</h4>
                     <h4 className="subheading">Нашето скромно начало</h4>
                   </div>
                   <div className="timeline-body">
@@ -285,14 +285,14 @@ function Home() {
               <li className="timeline-inverted">
                 <div className="timeline-image">
                   <img
-                    className="rounded-circle img-fluid"
-                    src="assets/img/about/2.jpg"
+                    className="photo rounded-circle img-fluid"
+                    src="assets/img/about/real_house.jpg"
                     alt="..."
                   />
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>Март 2011</h4>
+                    <h4>Март 2017</h4>
                     <h4 className="subheading">Всичко се промени</h4>
                   </div>
                   <div className="timeline-body">
@@ -308,14 +308,14 @@ function Home() {
               <li>
                 <div className="timeline-image">
                   <img
-                    className="rounded-circle img-fluid"
-                    src="assets/img/about/3.jpg"
+                    className="photo rounded-circle img-fluid"
+                    src="assets/img/about/big_projects.jpg"
                     alt="..."
                   />
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>Декември 2015</h4>
+                    <h4>Декември 2019</h4>
                     <h4 className="subheading">Развитие към големи проекти</h4>
                   </div>
                   <div className="timeline-body">
@@ -331,14 +331,14 @@ function Home() {
               <li className="timeline-inverted">
                 <div className="timeline-image">
                   <img
-                    className="rounded-circle img-fluid"
-                    src="assets/img/about/4.jpg"
+                    className="photo rounded-circle img-fluid"
+                    src="assets/img/about/today.jpg"
                     alt="..."
                   />
                 </div>
                 <div className="timeline-panel">
                   <div className="timeline-heading">
-                    <h4>Юли 2020</h4>
+                    <h4>2024</h4>
                     <h4 className="subheading">Фирмата днес</h4>
                   </div>
                   <div className="timeline-body">
@@ -373,7 +373,8 @@ function Home() {
                 Нашият уникален отбор
               </h2>
               <h3 className="section-subheading text-muted">
-                Lorem ipsum dolor sit amet consectetur.
+                Е тук да ви дадете най-доброто качество, което вярваме, че
+                заслужавате!
               </h3>
             </div>
             <div className="row">
@@ -388,18 +389,11 @@ function Home() {
                   <p className="text-muted">Изпълнителен директор</p>
                   <a
                     className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Parveen Anand Twitter Profile"
-                  >
-                    <i className="fab fa-twitter" />
-                  </a>
-                  <a
-                    className="btn btn-dark btn-social mx-2"
                     href="https://www.facebook.com/omgfffomgff"
                     alt="_blank"
                     aria-label="Parveen Anand Facebook Profile"
                   >
-                    <i className="fab fa-facebook-f" />
+                    <i className="fab fa-facebook" />
                   </a>
                   <a
                     className="btn btn-dark btn-social mx-2"
@@ -486,58 +480,13 @@ function Home() {
             </div>
           </div>
         </section>
-        {/* Clients*/}
-        <div className="py-5">
-          <div className="container">
-            <div className="row align-items-center">
-              <div className="col-md-3 col-sm-6 my-3">
-                <a href="#!">
-                  <img
-                    className="img-fluid img-brand d-block mx-auto"
-                    src="assets/img/logos/microsoft.svg"
-                    alt="..."
-                    aria-label="Microsoft Logo"
-                  />
-                </a>
-              </div>
-              <div className="col-md-3 col-sm-6 my-3">
-                <a href="#!">
-                  <img
-                    className="img-fluid img-brand d-block mx-auto"
-                    src="assets/img/logos/google.svg"
-                    alt="..."
-                    aria-label="Google Logo"
-                  />
-                </a>
-              </div>
-              <div className="col-md-3 col-sm-6 my-3">
-                <a href="#!">
-                  <img
-                    className="img-fluid img-brand d-block mx-auto"
-                    src="assets/img/logos/facebook.svg"
-                    alt="..."
-                    aria-label="Facebook Logo"
-                  />
-                </a>
-              </div>
-              <div className="col-md-3 col-sm-6 my-3">
-                <a href="#!">
-                  <img
-                    className="img-fluid img-brand d-block mx-auto"
-                    src="assets/img/logos/ibm.svg"
-                    alt="..."
-                    aria-label="IBM Logo"
-                  />
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
         {/* Contact*/}
         <section className="page-section" id="contact">
           <div className="container">
             <div className="text-center">
-              <h2 className="section-heading text-uppercase">Contact Us</h2>
+              <h2 className="section-heading text-uppercase">
+                Свържете се с нас
+              </h2>
               <h3 className="section-subheading text-muted">
                 Lorem ipsum dolor sit amet consectetur.
               </h3>
@@ -549,7 +498,7 @@ function Home() {
             {/* To make this form functional, sign up at*/}
             {/* https://startbootstrap.com/solution/contact-forms*/}
             {/* to get an API token!*/}
-            <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+            <form id="contactForm" data-sb-form-api-token="API">
               <div className="row align-items-stretch mb-5">
                 <div className="col-md-6">
                   <div className="form-group">
