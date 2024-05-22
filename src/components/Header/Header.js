@@ -12,7 +12,7 @@ function Header() {
         >
           <div className="container">
             <a className="navbar-brand" href="#page-top">
-              <img src={logo} alt="" />
+              <img src={logo} alt="crossed tools - the logo of the firm" />
             </a>
             <button
               className="navbar-toggler"
@@ -23,34 +23,34 @@ function Header() {
               aria-expanded="false"
               aria-label="Toggle navigation"
             >
-              Menu
+              Меню
               <i className="fas fa-bars ms-1" />
             </button>
             <div className="collapse navbar-collapse" id="navbarResponsive">
               <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                 <li className="nav-item">
                   <a className="nav-link" href="#services">
-                    Services
+                    Услуги
                   </a>
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="#portfolio">
-                    Portfolio
+                    Проекти
                   </a>
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="#about">
-                    About
+                    Относно
                   </a>
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="#team">
-                    Team
+                    Екип
                   </a>
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="#contact">
-                    Contact
+                    Контакти
                   </a>
                 </li>
               </ul>
@@ -60,15 +60,15 @@ function Header() {
         {/* Masthead*/}
         <header className="masthead">
           <div className="container">
-            <div className="masthead-subheading">Carpenter Services OOD</div>
+            <div className="masthead-subheading">Дърводелски услуги ООД</div>
             <div className="masthead-heading text-uppercase">
-              We offer you a place which you will call home!
+              предлагаме ви място, което да наречете свой дом!
             </div>
             <a
               className="btn btn-primary btn-xl text-uppercase"
               href="#services"
             >
-              Tell Me More
+              Искам да знам повече
             </a>
           </div>
         </header>

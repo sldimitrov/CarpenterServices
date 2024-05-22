@@ -9,16 +9,9 @@ function Footer() {
           <div className="container">
             <div className="row align-items-center">
               <div className="col-lg-4 text-lg-start">
-                Copyright © <i>Carpenter Services OOD 2024</i>
+                Copyright © <i>Дърводелски услуги ООД 2024</i>
               </div>
               <div className="col-lg-4 my-3 my-lg-0">
-                <a
-                  className="btn btn-dark btn-social mx-2"
-                  href="#!"
-                  aria-label="Twitter"
-                >
-                  <i className="fab fa-twitter" />
-                </a>
                 <a
                   className="btn btn-dark btn-social mx-2"
                   href="#!"
