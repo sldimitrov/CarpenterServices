@@ -1,5 +1,7 @@
 import React from "react";
-import housesIcon from "../../pictures/house-add.svg";
+import housesIcon from "../../pictures/house.png";
+import shedIcon from "../../pictures/shed.png";
+import shelterIcon from "../../pictures/shelter.png";
 
 function Home() {
   return (
@@ -20,11 +22,26 @@ function Home() {
             <div className="row text-center">
               <div className="col-md-4">
                 <span className="fa-stack fa-4x">
-                  <form id="icon-container">
-                    <img src={housesIcon} alt="gear"></img>
+                  <div className="icon-container">
+                    <form className="icon-bg">
+                      <img src={housesIcon} alt="gear"></img>
+                    </form>
+                  </div>
+                </span>
+                <h4 className="my-3">Дървени къщи</h4>
+                <p className="text-muted">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                  Minima maxime quam architecto quo inventore harum ex magni,
+                  dicta impedit.
+                </p>
+              </div>
+              <div className="col-md-4">
+                <div className="icon-container">
+                  <form className="icon-bg">
+                    <img src={shedIcon} alt="gear"></img>
                   </form>
-                </span>
-                <h4 className="my-3">E-Commerce</h4>
+                </div>
+                <h4 className="my-3">Беседки</h4>
                 <p className="text-muted">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                   Minima maxime quam architecto quo inventore harum ex magni,
@@ -32,23 +49,12 @@ function Home() {
                 </p>
               </div>
               <div className="col-md-4">
-                <span className="fa-stack fa-4x">
-                  <i className="fas fa-circle fa-stack-2x text-primary" />
-                  <i className="fas fa-laptop fa-stack-1x fa-inverse" />
-                </span>
-                <h4 className="my-3">Responsive Design</h4>
-                <p className="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Minima maxime quam architecto quo inventore harum ex magni,
-                  dicta impedit.
-                </p>
-              </div>
-              <div className="col-md-4">
-                <span className="fa-stack fa-4x">
-                  <i className="fas fa-circle fa-stack-2x text-primary" />
-                  <i className="fas fa-lock fa-stack-1x fa-inverse" />
-                </span>
-                <h4 className="my-3">Web Security</h4>
+                <div className="icon-container">
+                  <form className="icon-bg">
+                    <img src={shelterIcon} alt="gear"></img>
+                  </form>
+                </div>
+                <h4 className="my-3">Навеси</h4>
                 <p className="text-muted">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                   Minima maxime quam architecto quo inventore harum ex magni,
