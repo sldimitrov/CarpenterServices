@@ -3,6 +3,7 @@ bootstrap.css
 bootstrap.js
 bootstrap.json
 bootstrap.jsonp
+node_modules
 build/
 classic.json
 classic.jsonp
