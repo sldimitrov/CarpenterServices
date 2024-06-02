@@ -1,4 +1,5 @@
 import React from "react";
+import handleCopyText from "../../services/handleCopyText.js";
 
 function Footer() {
   return (
@@ -31,10 +32,15 @@ function Footer() {
                 </a>
               </div>
               <div className="col-lg-4 text-lg-end">
-                <a className="link-dark text-decoration-none me-3" href="#!">
+                <a
+                  id="footer-number"
+                  className="link-dark text-decoration-none me-3"
+                  onClick={handleCopyText}
+                >
                   0876533802
                 </a>
                 <a
+                  id="license"
                   className="link-dark text-decoration-none me-3"
                   href="https://github.com/sldimitrov/CarpenterServices/blob/main/LICENSE"
                 >

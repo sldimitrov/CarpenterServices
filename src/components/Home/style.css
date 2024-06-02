@@ -50,7 +50,8 @@
 .form-inputs {
   display: flex;
   flex-direction: column;
-  height: 10vh;
+  justify-content: space-around;
+  height: 12vh;
   width: 80vw;
 }
 
@@ -77,4 +78,16 @@ input::selection {
 
 #send-email-btn {
   border-radius: 25px;
+}
+
+#number {
+  display: flex;
+  width: 74vw;
+  justify-content: center;
+}
+
+#copy-icon {
+  margin-left: 10px;
+  width: 30px;
+  height: 30px;
 }

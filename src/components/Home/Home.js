@@ -2,6 +2,8 @@ import React from "react";
 import housesIcon from "../../pictures/house.png";
 import shedIcon from "../../pictures/shed.png";
 import shelterIcon from "../../pictures/shelter.png";
+import copyIcon from "../../pictures/copy-image.png";
+import handleCopyText from "../../services/handleCopyText";
 
 function Home() {
   return (
@@ -535,7 +537,14 @@ function Home() {
                   </div>
                 </form>
                 <h3 className="subheading">Като ни се обадите на:</h3>
-                <h4 id="contact-number">0876533802</h4>
+                <div id="number">
+                  <h4 id="contact-number">0876533802</h4>
+                  <img
+                    src={copyIcon}
+                    id="copy-icon"
+                    onClick={handleCopyText}
+                  ></img>
+                </div>
               </div>
             </div>
           </div>
