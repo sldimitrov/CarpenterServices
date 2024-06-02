@@ -18,3 +18,63 @@
   height: 160px;
   width: 160px;
 }
+
+.subheading {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(151, 150, 150);
+}
+
+.contact {
+  display: flex;
+  flex-direction:column;
+  justify-content: space-between;
+  height: 20vh;
+}
+
+#message-input {
+  width: 400px;
+  height: 35px;
+}
+
+#contact-number {
+  color: rgb(253, 237, 134);
+}
+
+/* Containers */
+#email-form {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.form-inputs {
+  display: flex;
+  flex-direction: column;
+  height: 10vh;
+  width: 80vw;
+}
+
+/* Inputs styling */
+input {
+  border: none;
+  background: none;
+  border-bottom: 1px solid grey;
+  color: white;
+  border-radius: 25px;
+  padding-left: 7px;
+}
+
+
+input::placeholder {
+  color: white;
+}
+
+input::selection {
+  border: none;
+  outline: none;
+  color: white;
+}
+
+#send-email-btn {
+  border-radius: 25px;
+}

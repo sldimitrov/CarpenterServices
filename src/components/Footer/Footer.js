@@ -9,12 +9,13 @@ function Footer() {
           <div className="container">
             <div className="row align-items-center">
               <div className="col-lg-4 text-lg-start">
-                Copyright © <i>Дърводелски услуги ООД 2024</i>
+                Copyright © <i>Дърводелски услуги ООД</i>
               </div>
+
               <div className="col-lg-4 my-3 my-lg-0">
                 <a
                   className="btn btn-dark btn-social mx-2"
-                  href="https://www.facebook.com/"
+                  href="https://www.facebook.com/Darvodelstvo"
                   target="_blank"
                   aria-label="Facebook"
                 >
@@ -22,18 +23,22 @@ function Footer() {
                 </a>
                 <a
                   className="btn btn-dark btn-social mx-2"
-                  href="#!"
-                  aria-label="LinkedIn"
+                  href="https://www.instagram.com/durvodelskiuslugi/"
+                  target="_blank"
+                  aria-label="Instagram"
                 >
-                  <i className="fab fa-linkedin-in" />
+                  <i className="fab fa-instagram" />
                 </a>
               </div>
               <div className="col-lg-4 text-lg-end">
                 <a className="link-dark text-decoration-none me-3" href="#!">
-                  Privacy Policy
+                  0876533802
                 </a>
-                <a className="link-dark text-decoration-none" href="#!">
-                  Terms of Use
+                <a
+                  className="link-dark text-decoration-none me-3"
+                  href="https://github.com/sldimitrov/CarpenterServices/blob/main/LICENSE"
+                >
+                  License
                 </a>
               </div>
             </div>

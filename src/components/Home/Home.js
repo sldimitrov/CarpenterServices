@@ -389,22 +389,17 @@ function Home() {
                   <p className="text-muted">Изпълнителен директор</p>
                   <a
                     className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Parveen Anand Twitter Profile"
-                  >
-                    <i className="fab fa-twitter" />
-                  </a>
-                  <a
-                    className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Parveen Anand Facebook Profile"
+                    href="https://www.facebook.com/omgfffomgff"
+                    aria-label="Teodor Dimitrov Facebook Profile"
+                    target="_blank"
                   >
                     <i className="fab fa-facebook" />
                   </a>
                   <a
                     className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Parveen Anand LinkedIn Profile"
+                    href="https://www.instagram.com/teo98dor/"
+                    aria-label="Teodor Dimitrov Instagram Profile"
+                    target="_blank"
                   >
                     <i className="fab fa-instagram" />
                   </a>
@@ -421,24 +416,19 @@ function Home() {
                   <p className="text-muted">Главен архитект</p>
                   <a
                     className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Diana Petersen Twitter Profile"
+                    href="https://www.facebook.com/profile.php?id=100011316370240"
+                    aria-label="Slavi Dimitrov Facebook Profile"
+                    target="_blank"
                   >
-                    <i className="fab fa-twitter" />
+                    <i className="fab fa-facebook" />
                   </a>
                   <a
                     className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Diana Petersen Facebook Profile"
+                    href="https://www.instagram.com/slavitrans1970/"
+                    aria-label="Slavi Dimitrov Instagram Profile"
+                    target="_blank"
                   >
-                    <i className="fab fa-facebook-f" />
-                  </a>
-                  <a
-                    className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Diana Petersen LinkedIn Profile"
-                  >
-                    <i className="fab fa-linkedin-in" />
+                    <i className="fab fa-instagram" />
                   </a>
                 </div>
               </div>
@@ -453,24 +443,27 @@ function Home() {
                   <p className="text-muted">Софтуерен Инжинер</p>
                   <a
                     className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Larry Parker Twitter Profile"
+                    href="https://www.facebook.com/slavi.dimitrov.3551/"
+                    aria-label="Slavi Dimitrov Facebook Profile"
+                    target="_blank"
                   >
-                    <i className="fab fa-twitter" />
+                    <i className="fab fa-facebook" />
                   </a>
                   <a
                     className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Larry Parker Facebook Profile"
+                    href="https://www.instagram.com/sldimitrovv_/"
+                    aria-label="Slavi Dimitrov Instagram Profile"
+                    target="_blank"
                   >
-                    <i className="fab fa-facebook-f" />
+                    <i className="fab fa-instagram" />
                   </a>
                   <a
                     className="btn btn-dark btn-social mx-2"
-                    href="#!"
-                    aria-label="Larry Parker LinkedIn Profile"
+                    href="https://www.linkedin.com/in/trick-er-311982292/"
+                    aria-label="Slavi Dimitrov Linkedin Profile"
+                    target="_blank"
                   >
-                    <i className="fab fa-linkedin-in" />
+                    <i className="fab fa-linkedin" />
                   </a>
                 </div>
               </div>
@@ -493,128 +486,58 @@ function Home() {
               <h2 className="section-heading text-uppercase">
                 Свържете се с нас
               </h2>
-              <h3 className="section-subheading text-muted">
-                Lorem ipsum dolor sit amet consectetur.
-              </h3>
-            </div>
-            {/* * * * * * * * * * * * * * * **/}
-            {/* * * SB Forms Contact Form * **/}
-            {/* * * * * * * * * * * * * * * **/}
-            {/* This form is pre-integrated with SB Forms.*/}
-            {/* To make this form functional, sign up at*/}
-            {/* https://startbootstrap.com/solution/contact-forms*/}
-            {/* to get an API token!*/}
-            <form id="contactForm" data-sb-form-api-token="API">
-              <div className="row align-items-stretch mb-5">
-                <div className="col-md-6">
-                  <div className="form-group">
-                    {/* Name input*/}
-                    <input
-                      className="form-control"
-                      id="name"
-                      type="text"
-                      placeholder="Your Name *"
-                      data-sb-validations="required"
-                    />
-                    <div
-                      className="invalid-feedback"
-                      data-sb-feedback="name:required"
-                    >
-                      A name is required.
-                    </div>
-                  </div>
-                  <div className="form-group">
-                    {/* Email address input*/}
-                    <input
-                      className="form-control"
-                      id="email"
-                      type="email"
-                      placeholder="Your Email *"
-                      data-sb-validations="required,email"
-                    />
-                    <div
-                      className="invalid-feedback"
-                      data-sb-feedback="email:required"
-                    >
-                      An email is required.
-                    </div>
-                    <div
-                      className="invalid-feedback"
-                      data-sb-feedback="email:email"
-                    >
-                      Email is not valid.
-                    </div>
-                  </div>
-                  <div className="form-group mb-md-0">
-                    {/* Phone number input*/}
-                    <input
-                      className="form-control"
-                      id="phone"
-                      type="tel"
-                      placeholder="Your Phone *"
-                      data-sb-validations="required"
-                    />
-                    <div
-                      className="invalid-feedback"
-                      data-sb-feedback="phone:required"
-                    >
-                      A phone number is required.
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-6">
-                  <div className="form-group form-group-textarea mb-md-0">
-                    {/* Message input*/}
-                    <textarea
-                      className="form-control"
-                      id="message"
-                      placeholder="Your Message *"
-                      data-sb-validations="required"
-                      defaultValue={""}
-                    />
-                    <div
-                      className="invalid-feedback"
-                      data-sb-feedback="message:required"
-                    >
-                      A message is required.
-                    </div>
-                  </div>
-                </div>
-              </div>
-              {/* Submit success message*/}
-              {/**/}
-              {/* This is what your users will see when the form*/}
-              {/* has successfully submitted*/}
-              <div className="d-none" id="submitSuccessMessage">
-                <div className="text-center text-white mb-3">
-                  <div className="fw-bolder">Form submission successful!</div>
-                  To activate this form, sign up at
-                  <br />
-                  <a href="https://startbootstrap.com/solution/contact-forms">
-                    https://startbootstrap.com/solution/contact-forms
-                  </a>
-                </div>
-              </div>
-              {/* Submit error message*/}
-              {/**/}
-              {/* This is what your users will see when there is*/}
-              {/* an error submitting the form*/}
-              <div className="d-none" id="submitErrorMessage">
-                <div className="text-center text-danger mb-3">
-                  Error sending message!
-                </div>
-              </div>
-              {/* Submit Button*/}
-              <div className="text-center">
-                <button
-                  className="btn btn-primary btn-xl text-uppercase disabled"
-                  id="submitButton"
-                  type="submit"
+              <div class="contact">
+                <h3 className="subheading">Като ни пратите имейл:</h3>
+                <form
+                  action="https://formsubmit.co/04a35ca2855a50754e75994b5bcde7d4"
+                  method="POST"
+                  id="email-form"
                 >
-                  Send Message
-                </button>
+                  <div class="form-inputs">
+                    <div id="first-row">
+                      <input
+                        type="text"
+                        name="name"
+                        required
+                        placeholder="Име"
+                      />
+                      <input
+                        type="email"
+                        name="email"
+                        required
+                        placeholder="Имейл"
+                      />
+                      <input
+                        type="text"
+                        name="subject"
+                        required
+                        placeholder="Тема"
+                      />
+                    </div>
+                    <div id="second-row">
+                      <input
+                        type="message"
+                        name="message"
+                        id="message-input"
+                        required
+                        placeholder="Съобщение"
+                      />
+                      <input type="hidden" name="_captcha" value="false" />
+                      <input
+                        type="hidden"
+                        name="_template"
+                        value="table"
+                      ></input>
+                      <button type="submit" id="send-email-btn">
+                        Изпрати
+                      </button>
+                    </div>
+                  </div>
+                </form>
+                <h3 className="subheading">Като ни се обадите на:</h3>
+                <h4 id="contact-number">0876533802</h4>
               </div>
-            </form>
+            </div>
           </div>
         </section>
       </div>
