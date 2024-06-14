@@ -9,3 +9,7 @@ a::placeholder {
   font-style: italic;
   font-weight: bold;
 } 
+
+#firm-name {
+  font-size: 40px;
+}

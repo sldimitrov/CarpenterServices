@@ -60,7 +60,9 @@ function Header() {
         {/* Masthead*/}
         <header className="masthead">
           <div className="container">
-            <div className="masthead-subheading">Дърводелски услуги ООД</div>
+            <div className="masthead-subheading" id="firm-name">
+              Дърводелски услуги Айтос-Бургас
+            </div>
             <div className="masthead-heading text-uppercase">
               предлагаме ви място, което да наречете свой дом!
             </div>

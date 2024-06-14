@@ -5,3 +5,7 @@
 #license:hover {
   border-bottom: 2px solid grey;
 }
+
+.carousel-item {
+  max-height: 530px;
+}

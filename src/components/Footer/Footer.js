@@ -10,13 +10,14 @@ function Footer() {
           <div className="container">
             <div className="row align-items-center">
               <div className="col-lg-4 text-lg-start">
-                Copyright © <i>Дърводелски услуги ООД</i>
+                Copyright © <i>Дърводелски услуги Бургас-Айтос</i>
               </div>
 
               <div className="col-lg-4 my-3 my-lg-0">
                 <a
                   className="btn btn-dark btn-social mx-2"
                   href="https://www.facebook.com/Darvodelstvo"
+                  rel="noreferrer"
                   target="_blank"
                   aria-label="Facebook"
                 >
@@ -25,6 +26,7 @@ function Footer() {
                 <a
                   className="btn btn-dark btn-social mx-2"
                   href="https://www.instagram.com/durvodelskiuslugi/"
+                  rel="noreferrer"
                   target="_blank"
                   aria-label="Instagram"
                 >
@@ -71,11 +73,194 @@ function Footer() {
                       {/* Project details*/}
                       <h2 className="text-uppercase">Двуетажна къща</h2>
                       <p className="item-intro text-muted">Норвежка перла</p>
-                      <img
+                      {/* <img
                         className="img-fluid d-block mx-auto"
                         src="assets/img/portfolio/house_1.jpg"
                         alt="..."
-                      />
+                      /> */}
+                      <div id="carouselExample" className="carousel slide">
+                        <div className="carousel-inner">
+                          <div className="carousel-item active">
+                            <img
+                              src="assets/img/portfolio/first/house_1.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/1.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/2.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/3.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/4.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/5.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/6.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/7.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/9.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/12.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/13.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/14.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/15.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/16.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/17.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/18.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/19.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/20.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/21.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/22.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/23.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                          <div className="carousel-item">
+                            <img
+                              src="assets/img/portfolio/first/24.jpg"
+                              className="d-block w-100"
+                              alt="..."
+                            />
+                          </div>
+                        </div>
+                        <button
+                          className="carousel-control-prev"
+                          type="button"
+                          data-bs-target="#carouselExample"
+                          data-bs-slide="prev"
+                        >
+                          <span
+                            className="carousel-control-prev-icon"
+                            aria-hidden="true"
+                          />
+                          <span className="visually-hidden">Previous</span>
+                        </button>
+                        <button
+                          className="carousel-control-next"
+                          type="button"
+                          data-bs-target="#carouselExample"
+                          data-bs-slide="next"
+                        >
+                          <span
+                            className="carousel-control-next-icon"
+                            aria-hidden="true"
+                          />
+                          <span className="visually-hidden">Next</span>
+                        </button>
+                      </div>
+
                       <p>
                         Use this area to describe your project. Lorem ipsum
                         dolor sit amet, consectetur adipisicing elit. Est
@@ -399,6 +584,66 @@ function Footer() {
                         <i className="fas fa-xmark me-1" />
                         Затвори проекта
                       </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {/* Portfolio item 7 modal popup*/}
+          <div
+            className="portfolio-modal modal fade"
+            id="portfolioModal7"
+            tabIndex={-1}
+            role="dialog"
+            aria-hidden="true"
+          >
+            <div className="modal-dialog">
+              <div className="modal-content">
+                <div className="close-modal" data-bs-dismiss="modal">
+                  <img src="assets/img/close-icon.svg" alt="Close modal" />
+                </div>
+                <div className="container">
+                  <div className="row justify-content-center">
+                    <div className="col-lg-8">
+                      <div className="modal-body">
+                        {/* Project details*/}
+                        <h2 className="text-uppercase">Беседка</h2>
+                        <p className="item-intro text-muted">
+                          За целия китайски народ
+                        </p>
+                        <img
+                          className="img-fluid d-block mx-auto"
+                          src="assets/img/portfolio/big_shed_6.jpg"
+                          alt="..."
+                        />
+                        <p>
+                          Use this area to describe your project. Lorem ipsum
+                          dolor sit amet, consectetur adipisicing elit. Est
+                          blanditiis dolorem culpa incidunt minus dignissimos
+                          deserunt repellat aperiam quasi sunt officia expedita
+                          beatae cupiditate, maiores repudiandae, nostrum,
+                          reiciendis facere nemo!
+                        </p>
+                        <ul className="list-inline">
+                          <li>
+                            <strong>Клиент:</strong>
+                            Window
+                          </li>
+                          <li>
+                            <strong>Категория:</strong>
+                            Photography
+                          </li>
+                        </ul>
+                        <button
+                          className="btn btn-primary btn-xl text-uppercase"
+                          data-bs-dismiss="modal"
+                          type="button"
+                        >
+                          <i className="fas fa-xmark me-1" />
+                          Затвори проекта
+                        </button>
+                      </div>
                     </div>
                   </div>
                 </div>
