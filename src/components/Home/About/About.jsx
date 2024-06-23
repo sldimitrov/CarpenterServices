@@ -3,7 +3,7 @@ export default function About() {
     <section className="page-section" id="about">
       <div className="container">
         <div className="text-center">
-          <h2 className="section-heading text-uppercase">Относно</h2>
+          <h2 className="section-heading text-uppercase">Относно нас</h2>
           <h3 className="section-subheading text-muted">
             Lorem ipsum dolor sit amet consectetur.
           </h3>
@@ -14,20 +14,18 @@ export default function About() {
               <img
                 className="photo rounded-circle img-fluid"
                 src="assets/img/about/beggining.jpg"
+                id="first"
                 alt="..."
               />
             </div>
             <div className="timeline-panel">
               <div className="timeline-heading">
-                <h4>2011</h4>
-                <h4 className="subheading">Our Humble Beginnings</h4>
+                <h4>Март 2011</h4>
+                <h4 className="subheading">Вдъхновяващ старт</h4>
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt
-                  ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                  quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-                  dolore laudantium consectetur!
+                  От 2011 година ние ви радваме с услугите си.
                 </p>
               </div>
             </div>
@@ -37,13 +35,14 @@ export default function About() {
               <img
                 className="photo rounded-circle img-fluid"
                 src="assets/img/about/real_house.jpg"
+                id="second"
                 alt="..."
               />
             </div>
             <div className="timeline-panel">
               <div className="timeline-heading">
                 <h4>March 2015</h4>
-                <h4 className="subheading">An Agency is Born</h4>
+                <h4 className="subheading">Откриваме пътя си</h4>
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
@@ -60,6 +59,7 @@ export default function About() {
               <img
                 className="photo rounded-circle img-fluid"
                 src="assets/img/about/big_projects.jpg"
+                id="third"
                 alt="..."
               />
             </div>
@@ -83,6 +83,7 @@ export default function About() {
               <img
                 className="photo rounded-circle img-fluid"
                 src="assets/img/about/today.jpg"
+                id="forth"
                 alt="..."
               />
             </div>

@@ -16,7 +16,8 @@ export default function Team() {
             <div className="team-member">
               <img
                 className="mx-auto rounded-circle"
-                src="assets/img/team/director.jpg"
+                src="assets/img/team/teodor.png"
+                id="teodor-pic"
                 alt="..."
               />
               <h4>Теодор Димитров</h4>
@@ -45,7 +46,8 @@ export default function Team() {
             <div className="team-member">
               <img
                 className="mx-auto rounded-circle"
-                src="assets/img/team/architech.jpg"
+                src="assets/img/team/slavi-main.jpg"
+                id="manager-photo"
                 alt="..."
               />
               <h4>Слави Димитров</h4>
@@ -75,7 +77,8 @@ export default function Team() {
             <div className="team-member">
               <img
                 className="mx-auto rounded-circle"
-                src="assets/img/team/engineer.jpg"
+                src="assets/img/team/slavi.jpg"
+                id="slavi-pic"
                 alt="..."
               />
               <h4>Слави Димитров</h4>
