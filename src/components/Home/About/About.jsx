@@ -5,7 +5,8 @@ export default function About() {
         <div className="text-center">
           <h2 className="section-heading text-uppercase">Относно нас</h2>
           <h3 className="section-subheading text-muted">
-            Lorem ipsum dolor sit amet consectetur.
+            "Едно от нещата, които ни свързват като семейство, е чувството за
+            хумор."
           </h3>
         </div>
         <ul className="timeline">
@@ -25,7 +26,10 @@ export default function About() {
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
-                  От 2011 година ние ви радваме с услугите си.
+                  Нашето начало е изпълнено със страст. От нашите малки
+                  произведения на изкуството ние се вдъхновихме. Това ни накара
+                  да експериментираме със своите собствени възможности и
+                  успяхме!
                 </p>
               </div>
             </div>
