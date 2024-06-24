@@ -82,7 +82,7 @@ export default function Team() {
                 alt="..."
               />
               <h4>Слави Димитров</h4>
-              <p className="text-muted">Софтуерен Инжинер</p>
+              <p className="text-muted">Софтуерен инженер</p>
               <a
                 className="btn btn-dark btn-social mx-2"
                 href="https://www.facebook.com/slavi.dimitrov.3551/"

@@ -2,6 +2,10 @@ a::placeholder {
   color: black;
 }
 
+#heading {
+  line-height: 1.1;
+}
+
 #firm {
   color: rgb(8, 135, 74);
   font-size: 20px;

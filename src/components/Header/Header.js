@@ -61,9 +61,9 @@ function Header() {
         <header className="masthead">
           <div className="container">
             <div className="masthead-subheading" id="firm-name">
-              Дърводелски услуги Айтос-Бургас
+              Дърводелски услуги Бургас-Айтос
             </div>
-            <div className="masthead-heading text-uppercase">
+            <div className="masthead-heading text-uppercase" id="heading">
               предлагаме ви място, което да наречете свой дом!
             </div>
             <a
