@@ -525,7 +525,9 @@ export default function Services() {
                 fill="black"
               />
             </svg>
-            <p className="text-muted">Са тук да ви държат във форма!</p>
+            <p className="text-muted">
+              Едно стъпало нагоре-тайна, която държи тялото във форма.
+            </p>
           </div>
         </div>
       </div>
