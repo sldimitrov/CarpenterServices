@@ -8,9 +8,11 @@ export default function Contacts() {
       <section className="page-section" id="contact">
         <div className="container">
           <div className="text-center">
-            <h2 className="section-heading text-uppercase">Contact Us</h2>
+            <h2 className="section-heading text-uppercase">
+              Свържете се с нас
+            </h2>
             <h3 className="section-subheading text-muted">
-              Lorem ipsum dolor sit amet consectetur.
+              Вашето мнение е важно за нас!
             </h3>
           </div>
           {/* * * * * * * * * * * * * * * **/}

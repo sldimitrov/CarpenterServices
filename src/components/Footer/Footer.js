@@ -40,7 +40,7 @@ function Footer() {
                   className="link-dark text-decoration-none me-3"
                   onClick={handleCopyText}
                 >
-                  0876533802
+                  087 6173123
                 </a>
                 <a
                   id="license"
