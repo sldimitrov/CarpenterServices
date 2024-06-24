@@ -1,7 +1,7 @@
 export default function Sheds() {
   return (
     <>
-      <h2 className="section-subheading text-muted subheading">Беседки</h2>
+      <h2 className="section-subheading text-muted subheading">Навеси</h2>
       <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0">
         {/* Portfolio item 4*/}
         <div className="portfolio-item">
@@ -17,14 +17,14 @@ export default function Sheds() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/bekira_4.jpg"
+              src="assets/img/portfolio/forth/finished.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
             <div className="portfolio-caption-heading">Огромен навес</div>
             <div className="portfolio-caption-subheading text-muted">
-              Заведение ,,Бекира"
+              За целия китайски народ
             </div>
           </div>
         </div>

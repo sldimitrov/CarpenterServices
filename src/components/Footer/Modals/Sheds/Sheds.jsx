@@ -21,13 +21,198 @@ export default function Sheds() {
                     {/* Project details*/}
                     <h2 className="text-uppercase">Огромен навес</h2>
                     <p className="item-intro text-muted">
-                      Заведение ,,Бекира" скоро отваря врати!
+                      За целия китайски народ
                     </p>
-                    <img
-                      className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/bekira_4.jpg"
-                      alt="big wooden shed"
-                    />
+                    <div id="carouselExampleCaptions" class="carousel slide">
+                      <div class="carousel-indicators">
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to="0"
+                          class="active"
+                          aria-current="true"
+                          aria-label="Slide 1"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to="1"
+                          aria-label="Slide 2"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to="2"
+                          aria-label="Slide 3"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to="3"
+                          aria-label="Slide 4"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to="4"
+                          aria-label="Slide 5"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to="5"
+                          aria-label="Slide 6"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to="6"
+                          aria-label="Slide 7"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to="7"
+                          aria-label="Slide 8"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to="8"
+                          aria-label="Slide 9"
+                        ></button>
+                      </div>
+                      <div class="carousel-inner">
+                        <div class="carousel-item active">
+                          <img
+                            src="assets/img/portfolio/forth/finished.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                          <div class="carousel-caption d-none d-md-block">
+                            <h5 className="pale-text">Завършен етап</h5>
+                            <p className="pale-text">
+                              Натиснете вдясно, за да видите още снимки.
+                            </p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/forth/0.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                          <div class="carousel-caption d-none d-md-block">
+                            <h5>1/8</h5>
+                            <p>Снимка преди започване на конструкцията.</p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/forth/1.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                          <div class="carousel-caption d-none d-md-block">
+                            <h5>2/8</h5>
+                            <p>
+                              Изграден е скелета на конструкцията от напречни
+                              греди. Дължината му надминава 10 метра.
+                            </p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/forth/2.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                          <div class="carousel-caption d-none d-md-block">
+                            <h5>3/8</h5>
+                            <p>Снимано от друг ъгъл.</p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/forth/3.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                          <div class="carousel-caption d-none d-md-block">
+                            <h5>4/8</h5>
+                            <p>Конструкцията е укрепена с конзоли.</p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/forth/4.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                          <div class="carousel-caption d-none d-md-block">
+                            <h5>5/8</h5>
+                            <p>Тавана се наребрява.</p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/forth/5.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                          <div class="carousel-caption d-none d-md-block">
+                            <h5>6/8</h5>
+                            <p>След наковаването на ламперията.</p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/forth/6.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                          <div class="carousel-caption d-none d-md-block">
+                            <h5>7/8</h5>
+                            <p></p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/forth/7.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                          <div class="carousel-caption d-none d-md-block">
+                            <h5>8/8</h5>
+                            <p></p>
+                          </div>
+                        </div>
+                      </div>
+                      <button
+                        class="carousel-control-prev"
+                        type="button"
+                        data-bs-target="#carouselExampleCaptions"
+                        data-bs-slide="prev"
+                      >
+                        <span
+                          class="carousel-control-prev-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Previous</span>
+                      </button>
+                      <button
+                        class="carousel-control-next"
+                        type="button"
+                        data-bs-target="#carouselExampleCaptions"
+                        data-bs-slide="next"
+                      >
+                        <span
+                          class="carousel-control-next-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Next</span>
+                      </button>
+                    </div>
                     <p>
                       Use this area to describe your project. Lorem ipsum dolor
                       sit amet, consectetur adipisicing elit. Est blanditiis
@@ -38,7 +223,7 @@ export default function Sheds() {
                     <ul className="list-inline">
                       <li>
                         <strong>Клиенти:</strong>
-                        Стефанови ООД
+                        от Карнобат
                       </li>
                       <li>
                         <strong>Категория:</strong>
