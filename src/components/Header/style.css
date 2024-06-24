@@ -3,7 +3,6 @@ a::placeholder {
 }
 
 #heading {
-  line-height: 1.1;
 }
 
 #firm {
@@ -16,4 +15,6 @@ a::placeholder {
 
 #firm-name {
   font-size: 40px;
+  line-height: 1.2;
+
 }
