@@ -21,15 +21,15 @@ export default function About() {
             </div>
             <div className="timeline-panel">
               <div className="timeline-heading">
-                <h4>Март 2011</h4>
+                <h4>2011</h4>
                 <h4 className="subheading">Вдъхновяващ старт</h4>
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
-                  Нашето начало е изпълнено със страст. От нашите малки
-                  произведения на изкуството ние се вдъхновихме. Това ни накара
-                  да експериментираме със своите собствени възможности и
-                  успяхме!
+                  Започваме като малък семеен бизнес с много страст. От малките
+                  ни произведения на изкуството ние се вдъхновихме. Това ни
+                  накара да експериментираме със своите собствени възможности и
+                  <strong> покорим нови върхове</strong>!
                 </p>
               </div>
             </div>
@@ -45,15 +45,15 @@ export default function About() {
             </div>
             <div className="timeline-panel">
               <div className="timeline-heading">
-                <h4>March 2015</h4>
+                <h4>2015</h4>
                 <h4 className="subheading">Откриваме пътя си</h4>
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt
-                  ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                  quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-                  dolore laudantium consectetur!
+                  Няколко години по-късно ние се насочваме към изграждането на
+                  олекотени дървени конструкции. Места на които да прекарвате
+                  времето си с любимите за Вас хора. Това са нашите:{" "}
+                  <strong>беседки, навеси, бунгала и Къщи!</strong>
                 </p>
               </div>
             </div>
@@ -69,15 +69,15 @@ export default function About() {
             </div>
             <div className="timeline-panel">
               <div className="timeline-heading">
-                <h4>December 2018</h4>
-                <h4 className="subheading">Transition to Full Service</h4>
+                <h4>2018</h4>
+                <h4 className="subheading">Специализираме в областта</h4>
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt
-                  ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                  quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-                  dolore laudantium consectetur!
+                  За нас създаването на Вашите домове не е просто работа. Това е
+                  нашето <strong>признание</strong>! През 2018 със
+                  <strong> стотици доволни клиенти</strong> до нас ние
+                  продължаваме да градим все по-нависоко!
                 </p>
               </div>
             </div>
@@ -93,7 +93,7 @@ export default function About() {
             </div>
             <div className="timeline-panel">
               <div className="timeline-heading">
-                <h4>July 2024</h4>
+                <h4>2024</h4>
                 <h4 className="subheading">Phase Two Expansion</h4>
               </div>
               <div className="timeline-body">

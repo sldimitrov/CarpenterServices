@@ -22,9 +22,11 @@ export default function Sheds() {
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">Огромен навес</div>
-            <div className="portfolio-caption-subheading text-muted">
+            <div className="portfolio-caption-heading">
               За целия китайски народ
+            </div>
+            <div className="portfolio-caption-subheading text-muted">
+              Огромен навес
             </div>
           </div>
         </div>
@@ -44,16 +46,17 @@ export default function Sheds() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/table_5.jpg"
+              src="assets/img/portfolio/fifth/18.jpg"
+              id="shed-photo"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
             <div className="portfolio-caption-heading">
-              Маса с епоксидна смола
+              ,,Прекарайте време навън"
             </div>
             <div className="portfolio-caption-subheading text-muted">
-              Майсторска изработка
+              Приятно навесче
             </div>
           </div>
         </div>

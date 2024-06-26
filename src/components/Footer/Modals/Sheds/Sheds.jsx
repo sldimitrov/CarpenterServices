@@ -263,15 +263,85 @@ export default function Sheds() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Творческа маса</h2>
-                    <p className="item-intro text-muted">
-                      Майсторска изработка на маса с епоксидна смола.
-                    </p>
-                    <img
-                      className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/table_5.jpg"
-                      alt="..."
-                    />
+                    <h2 className="text-uppercase">
+                      ,,Прекарайте време навън"
+                    </h2>
+                    <p className="item-intro text-muted">Приятно навесче</p>
+                    <div
+                      id="carouselExampleIndicators"
+                      class="carousel slide"
+                      data-bs-ride="carousel"
+                    >
+                      <div class="carousel-indicators">
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleIndicators"
+                          data-bs-slide-to="0"
+                          class="active"
+                          aria-current="true"
+                          aria-label="Slide 1"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleIndicators"
+                          data-bs-slide-to="1"
+                          aria-label="Slide 2"
+                        ></button>
+                        <button
+                          type="button"
+                          data-bs-target="#carouselExampleIndicators"
+                          data-bs-slide-to="2"
+                          aria-label="Slide 3"
+                        ></button>
+                      </div>
+                      <div class="carousel-inner">
+                        <div class="carousel-item active">
+                          <img
+                            src="assets/img/portfolio/fifth/18.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/fifth/1.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                        </div>
+                        <div class="carousel-item">
+                          <img
+                            src="assets/img/portfolio/fifth/2.jpg"
+                            class="d-block w-100"
+                            alt="..."
+                          />
+                        </div>
+                      </div>
+                      <button
+                        class="carousel-control-prev"
+                        type="button"
+                        data-bs-target="#carouselExampleIndicators"
+                        data-bs-slide="prev"
+                      >
+                        <span
+                          class="carousel-control-prev-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Previous</span>
+                      </button>
+                      <button
+                        class="carousel-control-next"
+                        type="button"
+                        data-bs-target="#carouselExampleIndicators"
+                        data-bs-slide="next"
+                      >
+                        <span
+                          class="carousel-control-next-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Next</span>
+                      </button>
+                    </div>
                     <p>
                       Use this area to describe your project. Lorem ipsum dolor
                       sit amet, consectetur adipisicing elit. Est blanditiis
