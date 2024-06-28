@@ -257,15 +257,15 @@ export default function Houses() {
                     <p className="item-intro text-muted">Норвежка перла</p>
                     <div
                       id="carouselExampleIndicators"
-                      class="carousel slide"
+                      className="carousel slide"
                       data-bs-ride="carousel"
                     >
-                      <div class="carousel-indicators">
+                      <div className="carousel-indicators">
                         <button
                           type="button"
                           data-bs-target="#carouselExampleIndicators"
                           data-bs-slide-to="0"
-                          class="active"
+                          className="active"
                           aria-current="true"
                           aria-label="Slide 1"
                         ></button>
@@ -336,115 +336,115 @@ export default function Houses() {
                           aria-label="Slide 12"
                         ></button>
                       </div>
-                      <div class="carousel-inner">
-                        <div class="carousel-item active">
+                      <div className="carousel-inner">
+                        <div className="carousel-item active">
                           <img
                             src="assets/img/portfolio/second/finish.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/1.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/2.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/3.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/4.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/5.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/6.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/7.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/8.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/9.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/10.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/11.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
                       </div>
                       <button
-                        class="carousel-control-prev"
+                        className="carousel-control-prev"
                         type="button"
                         data-bs-target="#carouselExampleIndicators"
                         data-bs-slide="prev"
                       >
                         <span
-                          class="carousel-control-prev-icon"
+                          className="carousel-control-prev-icon"
                           aria-hidden="true"
                         ></span>
-                        <span class="visually-hidden">Previous</span>
+                        <span className="visually-hidden">Previous</span>
                       </button>
                       <button
-                        class="carousel-control-next"
+                        className="carousel-control-next"
                         type="button"
                         data-bs-target="#carouselExampleIndicators"
                         data-bs-slide="next"
                       >
                         <span
-                          class="carousel-control-next-icon"
+                          className="carousel-control-next-icon"
                           aria-hidden="true"
                         ></span>
-                        <span class="visually-hidden">Next</span>
+                        <span className="visually-hidden">Next</span>
                       </button>
                     </div>
                     <p>
@@ -503,343 +503,343 @@ export default function Houses() {
                     </p>
                     <div
                       id="carouselExampleControls"
-                      class="carousel slide"
+                      className="carousel slide"
                       data-bs-ride="carousel"
                     >
-                      <div class="carousel-inner">
-                        <div class="carousel-item active">
+                      <div className="carousel-inner">
+                        <div className="carousel-item active">
                           <img
                             src="assets/img/portfolio/third/1.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/2.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/3.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/4.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/5.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/6.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/8.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/9.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/10.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/12.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/13.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/14.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/15.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/16.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/17.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/18.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/19.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/20.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/21.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/22.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/23.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/25.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/26.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/27.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/28.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/29.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/30.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/31.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/32.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
                         v
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/33.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/34.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/35.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/36.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/37.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/38.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/39.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/40.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/41.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/42.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/43.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/44.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/45.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/46.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/third/47.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
                         </div>
                       </div>
                       <button
-                        class="carousel-control-prev"
+                        className="carousel-control-prev"
                         type="button"
                         data-bs-target="#carouselExampleControls"
                         data-bs-slide="prev"
                       >
                         <span
-                          class="carousel-control-prev-icon"
+                          className="carousel-control-prev-icon"
                           aria-hidden="true"
                         ></span>
-                        <span class="visually-hidden">Previous</span>
+                        <span className="visually-hidden">Previous</span>
                       </button>
                       <button
-                        class="carousel-control-next"
+                        className="carousel-control-next"
                         type="button"
                         data-bs-target="#carouselExampleControls"
                         data-bs-slide="next"
                       >
                         <span
-                          class="carousel-control-next-icon"
+                          className="carousel-control-next-icon"
                           aria-hidden="true"
                         ></span>
-                        <span class="visually-hidden">Next</span>
+                        <span className="visually-hidden">Next</span>
                       </button>
                     </div>
                     <p>

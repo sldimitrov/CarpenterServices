@@ -22,7 +22,7 @@ export default function About() {
             <div className="timeline-panel">
               <div className="timeline-heading">
                 <h4>2011</h4>
-                <h4 className="subheading">Вдъхновяващ старт</h4>
+                <h4 className="subheading">Вдъхновяващ старт!</h4>
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
@@ -38,15 +38,15 @@ export default function About() {
             <div className="timeline-image">
               <img
                 className="photo rounded-circle img-fluid"
-                src="assets/img/about/real_house.jpg"
+                src="assets/img/naves3.jpg"
                 id="second"
                 alt="..."
               />
             </div>
             <div className="timeline-panel">
               <div className="timeline-heading">
-                <h4>2015</h4>
-                <h4 className="subheading">Откриваме пътя си</h4>
+                <h4>2014</h4>
+                <h4 className="subheading">Откриваме пътя си!</h4>
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
@@ -70,14 +70,15 @@ export default function About() {
             <div className="timeline-panel">
               <div className="timeline-heading">
                 <h4>2018</h4>
-                <h4 className="subheading">Специализираме в областта</h4>
+                <h4 className="subheading">Специализираме в областта!</h4>
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
                   За нас създаването на Вашите домове не е просто работа. Това е
-                  нашето <strong>признание</strong>! През 2018 със
+                  нашето <strong>призвание</strong>! През 2018 със
                   <strong> стотици доволни клиенти</strong> до нас ние
-                  продължаваме да градим все по-нависоко!
+                  продължаваме да градим все <br />
+                  по-нависоко!
                 </p>
               </div>
             </div>
@@ -86,7 +87,7 @@ export default function About() {
             <div className="timeline-image">
               <img
                 className="photo rounded-circle img-fluid"
-                src="assets/img/about/today.jpg"
+                src="assets/img/latest.jpg"
                 id="forth"
                 alt="..."
               />

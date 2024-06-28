@@ -23,13 +23,16 @@ export default function Sheds() {
                     <p className="item-intro text-muted">
                       За целия китайски народ
                     </p>
-                    <div id="carouselExampleCaptions" class="carousel slide">
-                      <div class="carousel-indicators">
+                    <div
+                      id="carouselExampleCaptions"
+                      className="carousel slide"
+                    >
+                      <div className="carousel-indicators">
                         <button
                           type="button"
                           data-bs-target="#carouselExampleCaptions"
                           data-bs-slide-to="0"
-                          class="active"
+                          className="active"
                           aria-current="true"
                           aria-label="Slide 1"
                         ></button>
@@ -82,38 +85,38 @@ export default function Sheds() {
                           aria-label="Slide 9"
                         ></button>
                       </div>
-                      <div class="carousel-inner">
-                        <div class="carousel-item active">
+                      <div className="carousel-inner">
+                        <div className="carousel-item active">
                           <img
                             src="assets/img/portfolio/forth/finished.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
-                          <div class="carousel-caption d-none d-md-block">
+                          <div className="carousel-caption d-none d-md-block">
                             <h5 className="pale-text">Завършен етап</h5>
                             <p className="pale-text">
                               Натиснете вдясно, за да видите още снимки.
                             </p>
                           </div>
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/forth/0.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
-                          <div class="carousel-caption d-none d-md-block">
+                          <div className="carousel-caption d-none d-md-block">
                             <h5>1/8</h5>
                             <p>Снимка преди започване на конструкцията.</p>
                           </div>
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/forth/1.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
-                          <div class="carousel-caption d-none d-md-block">
+                          <div className="carousel-caption d-none d-md-block">
                             <h5>2/8</h5>
                             <p>
                               Изграден е скелета на конструкцията от напречни
@@ -121,96 +124,96 @@ export default function Sheds() {
                             </p>
                           </div>
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/forth/2.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
-                          <div class="carousel-caption d-none d-md-block">
+                          <div className="carousel-caption d-none d-md-block">
                             <h5>3/8</h5>
                             <p>Снимано от друг ъгъл.</p>
                           </div>
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/forth/3.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
-                          <div class="carousel-caption d-none d-md-block">
+                          <div className="carousel-caption d-none d-md-block">
                             <h5>4/8</h5>
                             <p>Конструкцията е укрепена с конзоли.</p>
                           </div>
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/forth/4.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
-                          <div class="carousel-caption d-none d-md-block">
+                          <div className="carousel-caption d-none d-md-block">
                             <h5>5/8</h5>
                             <p>Тавана се наребрява.</p>
                           </div>
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/forth/5.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
-                          <div class="carousel-caption d-none d-md-block">
+                          <div className="carousel-caption d-none d-md-block">
                             <h5>6/8</h5>
                             <p>След наковаването на ламперията.</p>
                           </div>
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/forth/6.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
-                          <div class="carousel-caption d-none d-md-block">
+                          <div className="carousel-caption d-none d-md-block">
                             <h5>7/8</h5>
                             <p></p>
                           </div>
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/forth/7.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
-                          <div class="carousel-caption d-none d-md-block">
+                          <div className="carousel-caption d-none d-md-block">
                             <h5>8/8</h5>
                             <p></p>
                           </div>
                         </div>
                       </div>
                       <button
-                        class="carousel-control-prev"
+                        className="carousel-control-prev"
                         type="button"
                         data-bs-target="#carouselExampleCaptions"
                         data-bs-slide="prev"
                       >
                         <span
-                          class="carousel-control-prev-icon"
+                          className="carousel-control-prev-icon"
                           aria-hidden="true"
                         ></span>
-                        <span class="visually-hidden">Previous</span>
+                        <span className="visually-hidden">Previous</span>
                       </button>
                       <button
-                        class="carousel-control-next"
+                        className="carousel-control-next"
                         type="button"
                         data-bs-target="#carouselExampleCaptions"
                         data-bs-slide="next"
                       >
                         <span
-                          class="carousel-control-next-icon"
+                          className="carousel-control-next-icon"
                           aria-hidden="true"
                         ></span>
-                        <span class="visually-hidden">Next</span>
+                        <span className="visually-hidden">Next</span>
                       </button>
                     </div>
                     <p>
@@ -268,78 +271,98 @@ export default function Sheds() {
                     </h2>
                     <p className="item-intro text-muted">Приятно навесче</p>
                     <div
-                      id="carouselExampleIndicators"
-                      class="carousel slide"
-                      data-bs-ride="carousel"
+                      id="carouselExampleCaptions"
+                      className="carousel slide"
                     >
-                      <div class="carousel-indicators">
+                      <div className="carousel-indicators">
                         <button
                           type="button"
-                          data-bs-target="#carouselExampleIndicators"
-                          data-bs-slide-to="0"
-                          class="active"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to={0}
+                          className="active"
                           aria-current="true"
                           aria-label="Slide 1"
-                        ></button>
+                        />
                         <button
                           type="button"
-                          data-bs-target="#carouselExampleIndicators"
-                          data-bs-slide-to="1"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to={1}
                           aria-label="Slide 2"
-                        ></button>
+                        />
                         <button
                           type="button"
-                          data-bs-target="#carouselExampleIndicators"
-                          data-bs-slide-to="2"
+                          data-bs-target="#carouselExampleCaptions"
+                          data-bs-slide-to={2}
                           aria-label="Slide 3"
-                        ></button>
+                        />
                       </div>
-                      <div class="carousel-inner">
-                        <div class="carousel-item active">
-                          <img
-                            src="assets/img/portfolio/fifth/18.jpg"
-                            class="d-block w-100"
-                            alt="..."
-                          />
-                        </div>
-                        <div class="carousel-item">
+                      <div className="carousel-inner">
+                        <div className="carousel-item active">
                           <img
                             src="assets/img/portfolio/fifth/1.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
+                          <div className="carousel-caption d-none d-md-block">
+                            <h5>First slide label</h5>
+                            <p>
+                              Some representative placeholder content for the
+                              first slide.
+                            </p>
+                          </div>
                         </div>
-                        <div class="carousel-item">
+                        <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/fifth/2.jpg"
-                            class="d-block w-100"
+                            className="d-block w-100"
                             alt="..."
                           />
+                          <div className="carousel-caption d-none d-md-block">
+                            <h5>Second slide label</h5>
+                            <p>
+                              Some representative placeholder content for the
+                              second slide.
+                            </p>
+                          </div>
+                        </div>
+                        <div className="carousel-item">
+                          <img
+                            src="assets/img/portfolio/fifth/3.jpg"
+                            className="d-block w-100"
+                            alt="..."
+                          />
+                          <div className="carousel-caption d-none d-md-block">
+                            <h5>Third slide label</h5>
+                            <p>
+                              Some representative placeholder content for the
+                              third slide.
+                            </p>
+                          </div>
                         </div>
                       </div>
                       <button
-                        class="carousel-control-prev"
+                        className="carousel-control-prev"
                         type="button"
-                        data-bs-target="#carouselExampleIndicators"
+                        data-bs-target="#carouselExampleCaptions"
                         data-bs-slide="prev"
                       >
                         <span
-                          class="carousel-control-prev-icon"
+                          className="carousel-control-prev-icon"
                           aria-hidden="true"
-                        ></span>
-                        <span class="visually-hidden">Previous</span>
+                        />
+                        <span className="visually-hidden">Previous</span>
                       </button>
                       <button
-                        class="carousel-control-next"
+                        className="carousel-control-next"
                         type="button"
-                        data-bs-target="#carouselExampleIndicators"
+                        data-bs-target="#carouselExampleCaptions"
                         data-bs-slide="next"
                       >
                         <span
-                          class="carousel-control-next-icon"
+                          className="carousel-control-next-icon"
                           aria-hidden="true"
-                        ></span>
-                        <span class="visually-hidden">Next</span>
+                        />
+                        <span className="visually-hidden">Next</span>
                       </button>
                     </div>
                     <p>
