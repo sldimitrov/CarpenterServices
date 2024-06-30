@@ -1,7 +1,33 @@
-import copyIcon from "../../../pictures/copy-image.png";
-import handleCopyText from "../../../services/handleCopyText";
+import React from "react";
 
 export default function Contacts() {
+  const [result, setResult] = React.useState("");
+  const [isSend, setIsSend] = React.useState(false);
+
+  const onSubmit = async (event) => {
+    event.preventDefault();
+    setResult("Sending....");
+    const formData = new FormData(event.target);
+
+    formData.append("access_key", "0c4c1d64-dd01-4272-98fa-5631a69c188d");
+
+    const response = await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      body: formData,
+    });
+
+    const data = await response.json();
+
+    if (data.success) {
+      setResult("Form Submitted Successfully");
+      setIsSend(true);
+      event.target.reset();
+    } else {
+      console.log("Error", data);
+      setResult(data.message);
+    }
+  };
+
   return (
     <>
       {/* Contact*/}
@@ -15,14 +41,7 @@ export default function Contacts() {
               Вашето мнение е важно за нас!
             </h3>
           </div>
-          {/* * * * * * * * * * * * * * * **/}
-          {/* * * SB Forms Contact Form * **/}
-          {/* * * * * * * * * * * * * * * **/}
-          {/* This form is pre-integrated with SB Forms.*/}
-          {/* To make this form functional, sign up at*/}
-          {/* https://startbootstrap.com/solution/contact-forms*/}
-          {/* to get an API token!*/}
-          <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+          <form onSubmit={onSubmit}>
             <div className="row align-items-stretch mb-5">
               <div className="col-md-6">
                 <div className="form-group">
@@ -31,8 +50,10 @@ export default function Contacts() {
                     className="form-control"
                     id="name"
                     type="text"
+                    name="name"
                     placeholder="Your Name *"
                     data-sb-validations="required"
+                    required
                   />
                   <div
                     className="invalid-feedback"
@@ -47,8 +68,10 @@ export default function Contacts() {
                     className="form-control"
                     id="email"
                     type="email"
+                    name="email"
                     placeholder="Your Email *"
                     data-sb-validations="required,email"
+                    required
                   />
                   <div
                     className="invalid-feedback"
@@ -69,8 +92,10 @@ export default function Contacts() {
                     className="form-control"
                     id="phone"
                     type="tel"
+                    name="tel"
                     placeholder="Your Phone *"
                     data-sb-validations="required"
+                    required
                   />
                   <div
                     className="invalid-feedback"
@@ -86,9 +111,11 @@ export default function Contacts() {
                   <textarea
                     className="form-control"
                     id="message"
+                    name="message"
                     placeholder="Your Message *"
                     data-sb-validations="required"
                     defaultValue={""}
+                    required
                   />
                   <div
                     className="invalid-feedback"
@@ -99,33 +126,33 @@ export default function Contacts() {
                 </div>
               </div>
             </div>
-            {/* Submit success message*/}
-            {/**/}
-            {/* This is what your users will see when the form*/}
-            {/* has successfully submitted*/}
-            <div className="d-none" id="submitSuccessMessage">
-              <div className="text-center text-white mb-3">
-                <div className="fw-bolder">Form submission successful!</div>
-                To activate this form, sign up at
-                <br />
-                <a href="https://startbootstrap.com/solution/contact-forms">
-                  https://startbootstrap.com/solution/contact-forms
-                </a>
-              </div>
-            </div>
-            {/* Submit error message*/}
-            {/**/}
-            {/* This is what your users will see when there is*/}
-            {/* an error submitting the form*/}
-            <div className="d-none" id="submitErrorMessage">
-              <div className="text-center text-danger mb-3">
-                Error sending message!
+            <div>
+              {/* Submit success message*/}
+              {/**/}
+              {/* This is what your users will see when the form*/}
+              {/* has successfully submitted*/}
+              {isSend && (
+                <div className="" id="submitSuccessMessage">
+                  <div className="text-center text-white mb-3">
+                    <div className="fw-bolder">Form submission successful!</div>
+                    <br />
+                  </div>
+                </div>
+              )}
+              {/* Submit error message*/}
+              {/**/}
+              {/* This is what your users will see when there is*/}
+              {/* an error submitting the form*/}
+              <div className="d-none" id="submitErrorMessage">
+                <div className="text-center text-danger mb-3">
+                  Error sending message!
+                </div>
               </div>
             </div>
             {/* Submit Button*/}
             <div className="text-center">
               <button
-                className="btn btn-primary btn-xl text-uppercase disabled"
+                className="btn btn-primary btn-xl text-uppercase"
                 id="submitButton"
                 type="submit"
               >

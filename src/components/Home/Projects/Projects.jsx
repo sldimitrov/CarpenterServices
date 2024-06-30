@@ -1,5 +1,6 @@
 import Houses from "./Houses";
 import Sheds from "./Sheds";
+import Bowers from "./Bowers";
 
 export default function Projects() {
   return (
@@ -12,8 +13,8 @@ export default function Projects() {
         <div className="row">
           <Houses />
           <Sheds />
+          <Bowers />
           {/* NAVESI */}
-          <h2 className="section-subheading text-muted subheading">Навеси</h2>
         </div>
       </div>
     </section>

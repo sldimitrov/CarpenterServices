@@ -1,14 +1,14 @@
-export default function Sheds() {
+export default function Bowers() {
   return (
     <>
-      <h2 className="section-subheading text-muted subheading">Навеси</h2>
+      <h2 className="section-subheading text-muted subheading">Беседки</h2>
       <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-        {/* Portfolio item 4*/}
+        {/* Portfolio item 7*/}
         <div className="portfolio-item">
           <a
             className="portfolio-link"
             data-bs-toggle="modal"
-            href="#portfolioModal4"
+            href="#portfolioModal7"
           >
             <div className="portfolio-hover">
               <div className="portfolio-hover-content">
@@ -32,12 +32,12 @@ export default function Sheds() {
         </div>
       </div>
       <div className="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-        {/* Portfolio item 5*/}
+        {/* Portfolio item 8*/}
         <div className="portfolio-item">
           <a
             className="portfolio-link"
             data-bs-toggle="modal"
-            href="#portfolioModal5"
+            href="#portfolioModal8"
           >
             <div className="portfolio-hover">
               <div className="portfolio-hover-content">
@@ -62,12 +62,12 @@ export default function Sheds() {
         </div>
       </div>
       <div className="col-lg-4 col-sm-6">
-        {/* Portfolio item 6*/}
+        {/* Portfolio item 9*/}
         <div className="portfolio-item">
           <a
             className="portfolio-link"
             data-bs-toggle="modal"
-            href="#portfolioModal6"
+            href="#portfolioModal9"
           >
             <div className="portfolio-hover">
               <div className="portfolio-hover-content">
