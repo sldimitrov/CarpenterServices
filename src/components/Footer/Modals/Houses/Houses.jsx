@@ -19,7 +19,7 @@ export default function Houses() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Двуетажна къща</h2>
+                    <h2 id="first">Двуетажна къща</h2>
                     <p className="item-intro text-muted">Норвежка перла</p>
                     {/* <img
                         className="img-fluid d-block mx-auto"
@@ -253,7 +253,7 @@ export default function Houses() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Двуетажна къща</h2>
+                    <h2 id="first">Двуетажна къща</h2>
                     <p className="item-intro text-muted">Норвежка перла</p>
                     <div
                       id="carouselExampleIndicators"
@@ -497,7 +497,7 @@ export default function Houses() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Модерна къща</h2>
+                    <h2 id="first">Модерна къща</h2>
                     <p className="item-intro text-muted">
                       Естетика завладява ума и пречупва представите
                     </p>

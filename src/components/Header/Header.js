@@ -34,7 +34,7 @@ function Header() {
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#portfolio">
+                  <a className="nav-link" href="#portfolio" id="link">
                     <div class="dropdown">
                       <button
                         class="btn btn-secondary dropdown-toggle"

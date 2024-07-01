@@ -21,7 +21,7 @@ export default function Bowers() {
                   <div className="col-lg-8">
                     <div className="modal-body">
                       {/* Project details*/}
-                      <h2 className="text-uppercase">Project Name</h2>
+                      <h2 id="first">Project Name</h2>
                       <p className="item-intro text-muted">
                         Lorem ipsum dolor sit amet consectetur.
                       </p>
@@ -81,7 +81,7 @@ export default function Bowers() {
                   <div className="col-lg-8">
                     <div className="modal-body">
                       {/* Project details*/}
-                      <h2 className="text-uppercase">Project Name</h2>
+                      <h2 id="first">Project Name</h2>
                       <p className="item-intro text-muted">
                         Lorem ipsum dolor sit amet consectetur.
                       </p>
@@ -140,7 +140,7 @@ export default function Bowers() {
                     <div className="col-lg-8">
                       <div className="modal-body">
                         {/* Project details*/}
-                        <h2 className="text-uppercase">Project Name</h2>
+                        <h2 id="first">Project Name</h2>
                         <p className="item-intro text-muted">
                           Lorem ipsum dolor sit amet consectetur.
                         </p>

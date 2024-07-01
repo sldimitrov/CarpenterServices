@@ -19,7 +19,7 @@ export default function Sheds() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Огромен навес</h2>
+                    <h2 id="first">Огромен навес</h2>
                     <p className="item-intro text-muted">
                       За целия китайски народ
                     </p>
@@ -266,9 +266,7 @@ export default function Sheds() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">
-                      ,,Прекарайте време навън"
-                    </h2>
+                    <h2 id="first">,,Прекарайте време навън"</h2>
                     <p className="item-intro text-muted">Приятно навесче</p>
                     <div
                       id="carouselExampleCaptions"
@@ -414,7 +412,7 @@ export default function Sheds() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Заведение ,,Бекира"</h2>
+                    <h2 id="first">Заведение ,,Бекира"</h2>
                     <p className="item-intro text-muted">
                       Скоро отваря врати...
                     </p>
@@ -472,7 +470,7 @@ export default function Sheds() {
                   <div className="col-lg-8">
                     <div className="modal-body">
                       {/* Project details*/}
-                      <h2 className="text-uppercase">Заведение ,,Бекира"</h2>
+                      <h2 id="first">Заведение ,,Бекира"</h2>
                       <p className="item-intro text-muted">
                         Скоро отваря врати...
                       </p>
