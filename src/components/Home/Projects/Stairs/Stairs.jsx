@@ -19,14 +19,14 @@ export default function Stairs() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/ten/1.jpg"
+              src="assets/img/portfolio/sixteen/1.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">,,Червеният дявол"</div>
+            <div className="portfolio-caption-heading">,,Водовъртеж"</div>
             <div className="portfolio-caption-subheading text-muted">
-              <strong>Продава се!</strong>
+              Права стълба на няколко етажа
             </div>
           </div>
         </div>
@@ -46,14 +46,14 @@ export default function Stairs() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/eleven/1.png"
+              src="assets/img/portfolio/seventeen/1.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">,,Синя смола"</div>
+            <div className="portfolio-caption-heading">,,По пътя нагоре"</div>
             <div className="portfolio-caption-subheading text-muted">
-              Продадена
+              Стълба тип ,,пачи крак"
             </div>
           </div>
         </div>
@@ -73,14 +73,14 @@ export default function Stairs() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/twelve/3.png"
+              src="assets/img/portfolio/eighteen/1.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">Светеща в тъмното</div>
+            <div className="portfolio-caption-heading">,,Камуфлаж"</div>
             <div className="portfolio-caption-subheading text-muted">
-              Продадена
+              Облицовка на бетонена стълба
             </div>
           </div>
         </div>
