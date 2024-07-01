@@ -35,7 +35,34 @@ function Header() {
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="#portfolio">
-                    Проекти
+                    <div class="dropdown">
+                      <button
+                        class="btn btn-secondary dropdown-toggle"
+                        type="button"
+                        id="fall-down-btn"
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                      >
+                        Проекти
+                      </button>
+                      <ul class="dropdown-menu">
+                        <li>
+                          <a class="dropdown-item" href="#portfolio">
+                            Къщи
+                          </a>
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="#sheds">
+                            Навеси
+                          </a>
+                        </li>
+                        <li>
+                          <a class="dropdown-item" href="#bowers">
+                            Беседки
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
                   </a>
                 </li>
                 <li className="nav-item">

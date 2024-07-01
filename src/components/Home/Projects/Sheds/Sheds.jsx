@@ -1,7 +1,9 @@
 export default function Sheds() {
   return (
     <>
-      <h2 className="section-subheading text-muted subheading">Навеси</h2>
+      <h2 className="section-subheading text-muted subheading" id="sheds">
+        Навеси
+      </h2>
       <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0">
         {/* Portfolio item 4*/}
         <div className="portfolio-item">

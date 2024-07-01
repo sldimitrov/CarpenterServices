@@ -2,9 +2,6 @@ a::placeholder {
   color: black;
 }
 
-#heading {
-}
-
 #firm {
   color: rgb(8, 135, 74);
   font-size: 20px;
@@ -16,5 +13,22 @@ a::placeholder {
 #firm-name {
   font-size: 40px;
   line-height: 1.2;
+}
 
+#fall-down-btn {
+  background: none;
+  border: none;
+  text-transform:uppercase;
+}
+
+#fall-down-btn:hover {
+  color: gold;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 576px) {
+  #heading {
+    font-size: 28px;
+    line-height: 1.2;
+  }
 }
