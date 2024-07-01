@@ -1,7 +1,7 @@
 export default function Bowers() {
   return (
     <>
-      <h2 className="section-subheading text-muted subheading" id="sheds">
+      <h2 className="section-subheading text-muted subheading" id="bowers">
         Беседки
       </h2>
       <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0">
@@ -19,14 +19,14 @@ export default function Bowers() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/modern_house.jpg"
+              src="assets/img/portfolio/seventh/shed_3.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">Lines</div>
+            <div className="portfolio-caption-heading">Бистро ,,Градина"</div>
             <div className="portfolio-caption-subheading text-muted">
-              Branding
+              Празнична зала
             </div>
           </div>
         </div>
@@ -46,14 +46,14 @@ export default function Bowers() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/modern_house.jpg"
+              src="assets/img/portfolio/eight/24.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">Southwest</div>
+            <div className="portfolio-caption-heading">Медна беседка</div>
             <div className="portfolio-caption-subheading text-muted">
-              Website Design
+              За истински ценители
             </div>
           </div>
         </div>
@@ -73,14 +73,14 @@ export default function Bowers() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/modern_house.jpg"
+              src="assets/img/portfolio/nine/1.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">Window</div>
+            <div className="portfolio-caption-heading">Заведение ,,Аетос"</div>
             <div className="portfolio-caption-subheading text-muted">
-              Photography
+              Прекрасен интериор с подслон
             </div>
           </div>
         </div>
