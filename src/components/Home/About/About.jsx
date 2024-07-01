@@ -87,7 +87,7 @@ export default function About() {
             <div className="timeline-image">
               <img
                 className="photo rounded-circle img-fluid"
-                src="assets/img/latest.jpg"
+                src="assets/img/modern_house.jpg"
                 id="forth"
                 alt="..."
               />
@@ -99,10 +99,13 @@ export default function About() {
               </div>
               <div className="timeline-body">
                 <p className="text-muted">
-                  Помогнахме на стотици семейства в реализацията на къщи, които
-                  те самите превърнаха в домове. Вложихме сърце и душа, за да
-                  предоставим на нашите клиенти най-високо качество на услугите!
-                  Екипът ни е готов да създаде и Вашия мечтан дом!
+                  Помогнахме на <strong>стотици семейства</strong> в
+                  реализацията на къщи, които те самите превърнаха в домове.
+                  Вложихме <strong>сърце и душа</strong>, за да предоставим на
+                  нашите клиенти най-високо качество на услугите!{" "}
+                  <strong>
+                    Екипът ни е готов да създаде и Вашия мечтан дом!
+                  </strong>
                 </p>
               </div>
             </div>
