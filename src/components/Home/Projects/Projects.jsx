@@ -2,6 +2,8 @@ import Houses from "./Houses";
 import Sheds from "./Sheds";
 import Bowers from "./Bowers";
 import Tables from "./Tables";
+import Bungalow from "./Bungalow";
+import Stairs from "./Stairs";
 
 export default function Projects() {
   return (
@@ -16,6 +18,8 @@ export default function Projects() {
           <Sheds />
           <Bowers />
           <Tables />
+          <Bungalow />
+          <Stairs />
         </div>
       </div>
     </section>

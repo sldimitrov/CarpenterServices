@@ -1,16 +1,16 @@
-export default function Tables() {
+export default function Stairs() {
   return (
     <>
-      <h2 className="section-subheading text-muted subheading" id="tables">
-        Маси с епоксидна смола
+      <h2 className="section-subheading text-muted subheading" id="stairs">
+        Стълби
       </h2>
       <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-        {/* Portfolio item 10*/}
+        {/* Portfolio item 16*/}
         <div className="portfolio-item">
           <a
             className="portfolio-link"
             data-bs-toggle="modal"
-            href="#portfolioModal10"
+            href="#portfolioModal16"
           >
             <div className="portfolio-hover">
               <div className="portfolio-hover-content">
@@ -32,12 +32,12 @@ export default function Tables() {
         </div>
       </div>
       <div className="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-        {/* Portfolio item 11*/}
+        {/* Portfolio item 17*/}
         <div className="portfolio-item">
           <a
             className="portfolio-link"
             data-bs-toggle="modal"
-            href="#portfolioModal11"
+            href="#portfolioModal17"
           >
             <div className="portfolio-hover">
               <div className="portfolio-hover-content">
@@ -59,12 +59,12 @@ export default function Tables() {
         </div>
       </div>
       <div className="col-lg-4 col-sm-6">
-        {/* Portfolio item 12*/}
+        {/* Portfolio item 18*/}
         <div className="portfolio-item">
           <a
             className="portfolio-link"
             data-bs-toggle="modal"
-            href="#portfolioModal12"
+            href="#portfolioModal18"
           >
             <div className="portfolio-hover">
               <div className="portfolio-hover-content">

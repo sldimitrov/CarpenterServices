@@ -61,6 +61,21 @@ function Header() {
                             Беседки
                           </a>
                         </li>
+                        <li>
+                          <a className="dropdown-item" href="#tables">
+                            Маси с епоксидна смола
+                          </a>
+                        </li>
+                        <li>
+                          <a className="dropdown-item" href="#bungalow">
+                            Бунгала
+                          </a>
+                        </li>
+                        <li>
+                          <a className="dropdown-item" href="#stairs">
+                            Стълби
+                          </a>
+                        </li>
                       </ul>
                     </div>
                   </a>

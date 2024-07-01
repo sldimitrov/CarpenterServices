@@ -1,16 +1,16 @@
-export default function Tables() {
+export default function Bungalow() {
   return (
     <>
-      <h2 className="section-subheading text-muted subheading" id="tables">
-        Маси с епоксидна смола
+      <h2 className="section-subheading text-muted subheading" id="bungalow">
+        Бунгала
       </h2>
       <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-        {/* Portfolio item 10*/}
+        {/* Portfolio item 13*/}
         <div className="portfolio-item">
           <a
             className="portfolio-link"
             data-bs-toggle="modal"
-            href="#portfolioModal10"
+            href="#portfolioModal13"
           >
             <div className="portfolio-hover">
               <div className="portfolio-hover-content">
@@ -19,25 +19,27 @@ export default function Tables() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/ten/1.jpg"
+              src="assets/img/portfolio/thirteen/1.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">,,Червеният дявол"</div>
+            <div className="portfolio-caption-heading">
+              ,,Всичко тук е в бяло"
+            </div>
             <div className="portfolio-caption-subheading text-muted">
-              <strong>Продава се!</strong>
+              Освен морето
             </div>
           </div>
         </div>
       </div>
       <div className="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-        {/* Portfolio item 11*/}
+        {/* Portfolio item 14*/}
         <div className="portfolio-item">
           <a
             className="portfolio-link"
             data-bs-toggle="modal"
-            href="#portfolioModal11"
+            href="#portfolioModal14"
           >
             <div className="portfolio-hover">
               <div className="portfolio-hover-content">
@@ -46,25 +48,25 @@ export default function Tables() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/eleven/1.png"
+              src="assets/img/portfolio/fourteen/1.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">,,Синя смола"</div>
+            <div className="portfolio-caption-heading">,,Къщата на Хобит"</div>
             <div className="portfolio-caption-subheading text-muted">
-              Продадена
+              С тематични колони
             </div>
           </div>
         </div>
       </div>
       <div className="col-lg-4 col-sm-6">
-        {/* Portfolio item 12*/}
+        {/* Portfolio item 15*/}
         <div className="portfolio-item">
           <a
             className="portfolio-link"
             data-bs-toggle="modal"
-            href="#portfolioModal12"
+            href="#portfolioModal15"
           >
             <div className="portfolio-hover">
               <div className="portfolio-hover-content">
@@ -73,14 +75,14 @@ export default function Tables() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/twelve/3.png"
+              src="assets/img/portfolio/fifteen/1.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">Светеща в тъмното</div>
+            <div className="portfolio-caption-heading">,,Фамилно бунгало"</div>
             <div className="portfolio-caption-subheading text-muted">
-              Продадена
+              На два етажа с две тераси
             </div>
           </div>
         </div>
