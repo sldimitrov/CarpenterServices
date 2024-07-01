@@ -21,7 +21,7 @@ export default function Services() {
           <div className="col-md-4">
             <div className="icon-container">
               <form className="icon-bg">
-                <img src={shedIcon} alt="gear"></img>
+                <img src={shedIcon} alt="gear" className="icon"></img>
               </form>
             </div>
             <h4 className="my-3">Беседки</h4>
@@ -107,7 +107,7 @@ export default function Services() {
             <span className="fa-stack fa-4x">
               <div className="icon-container">
                 <form className="icon-bg">
-                  <img src={housesIcon} alt="gear"></img>
+                  <img src={housesIcon} alt="gear" className="icon"></img>
                 </form>
               </div>
             </span>
@@ -190,7 +190,7 @@ export default function Services() {
           <div className="col-md-4">
             <div className="icon-container">
               <form className="icon-bg">
-                <img src={shelterIcon} alt="gear"></img>
+                <img src={shelterIcon} alt="gear" className="icon"></img>
               </form>
             </div>
             <h4 className="my-3">Навеси</h4>
@@ -276,7 +276,7 @@ export default function Services() {
           <div className="col-md-4">
             <div className="icon-container">
               <form className="icon-bg">
-                <img src={tableIcon} alt="gear"></img>
+                <img src={tableIcon} alt="gear" className="icon"></img>
               </form>
             </div>
             <h4 className="my-3">Маси с епоксидна смола</h4>
@@ -457,7 +457,7 @@ export default function Services() {
           <div className="col-md-4">
             <div className="icon-container">
               <form className="icon-bg">
-                <img src={stairsIcon} alt="gear"></img>
+                <img src={stairsIcon} alt="gear" className="icon"></img>
               </form>
             </div>
             <h4 className="my-3">Стълби</h4>
