@@ -37,7 +37,7 @@ function Header() {
                   <a className="nav-link" href="#portfolio" id="link">
                     <div class="dropdown">
                       <button
-                        class="btn btn-secondary dropdown-toggle"
+                        className="btn btn-secondary dropdown-toggle"
                         type="button"
                         id="fall-down-btn"
                         data-bs-toggle="dropdown"
@@ -45,19 +45,19 @@ function Header() {
                       >
                         Проекти
                       </button>
-                      <ul class="dropdown-menu">
+                      <ul className="dropdown-menu">
                         <li>
-                          <a class="dropdown-item" href="#portfolio">
+                          <a className="dropdown-item" href="#portfolio">
                             Къщи
                           </a>
                         </li>
                         <li>
-                          <a class="dropdown-item" href="#sheds">
+                          <a className="dropdown-item" href="#sheds">
                             Навеси
                           </a>
                         </li>
                         <li>
-                          <a class="dropdown-item" href="#bowers">
+                          <a className="dropdown-item" href="#bowers">
                             Беседки
                           </a>
                         </li>

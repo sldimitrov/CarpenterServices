@@ -14,7 +14,6 @@ export default function Projects() {
           <Houses />
           <Sheds />
           <Bowers />
-          {/* NAVESI */}
         </div>
       </div>
     </section>

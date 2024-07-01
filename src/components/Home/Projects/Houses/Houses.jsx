@@ -16,7 +16,7 @@ export default function Houses() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/first/house_1.jpg"
+              src="assets/img/modern_house.jpg"
               alt="..."
             />
           </a>
