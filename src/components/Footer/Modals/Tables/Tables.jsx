@@ -1,10 +1,10 @@
-export default function Bowers() {
+export default function Tables() {
   return (
     <>
-      {/* Portfolio item 7 modal popup*/}
+      {/* Portfolio item 10 modal popup*/}
       <div
         className="portfolio-modal modal fade"
-        id="portfolioModal7"
+        id="portfolioModal10"
         tabIndex={-1}
         role="dialog"
         aria-hidden="true"
@@ -60,10 +60,10 @@ export default function Bowers() {
           </div>
         </div>
       </div>
-      {/* Portfolio item 8 modal popup*/}
+      {/* Portfolio item 11 modal popup*/}
       <div
         className="portfolio-modal modal fade"
-        id="portfolioModal8"
+        id="portfolioModal11"
         tabIndex={-1}
         role="dialog"
         aria-hidden="true"
@@ -119,10 +119,10 @@ export default function Bowers() {
           </div>
         </div>
       </div>
-      {/* Portfolio item 9 modal popup*/}
+      {/* Portfolio item 12 modal popup*/}
       <div
         className="portfolio-modal modal fade"
-        id="portfolioModal9"
+        id="portfolioModal12"
         tabIndex={-1}
         role="dialog"
         aria-hidden="true"
