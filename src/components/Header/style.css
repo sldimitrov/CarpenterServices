@@ -21,11 +21,6 @@ a::placeholder {
   text-transform:uppercase;
 }
 
-.nav-item {
-  padding: 0px;
-  margin: 0px;
-}
-
 #link {
   padding-top: 0px;
   margin: 0px;
@@ -33,7 +28,6 @@ a::placeholder {
 
 #fall-down-btn:hover {
   color: gold;
-  padding-top: 0px;
 }
 
 /* Extra small devices (phones, 600px and down) */
