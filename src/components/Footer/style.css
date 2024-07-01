@@ -1,5 +1,6 @@
 #footer-number:hover  {
   border-bottom: 2px solid grey;
+  cursor: pointer;
 }
 
 #license:hover {

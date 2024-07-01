@@ -1,4 +1,18 @@
 #contact-number {
   padding-left: 10px;
   padding-bottom: 35px;
+  color: white;
+}
+
+input {
+  margin-bottom: 20px;
+  height: 60px;
+}
+
+#message {
+  height: 220px;
+}
+
+#big-number {
+  color: white;
 }

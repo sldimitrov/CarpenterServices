@@ -37,6 +37,10 @@ export default function Contacts() {
             <h2 className="section-heading text-uppercase">
               Свържете се с нас
             </h2>
+            <h2 className="section-subheading" id="big-number">
+              087 6173123
+            </h2>
+
             <h3 className="section-subheading text-muted">
               Вашето мнение е важно за нас!
             </h3>
@@ -134,7 +138,10 @@ export default function Contacts() {
               {isSend && (
                 <div className="" id="submitSuccessMessage">
                   <div className="text-center text-white mb-3">
-                    <div className="fw-bolder">Form submission successful!</div>
+                    <div className="fw-bolder">
+                      Имейлът е успешно изпратен. Нашият екип ще се опита да ви
+                      отговори възможно най-скоро!
+                    </div>
                     <br />
                   </div>
                 </div>
