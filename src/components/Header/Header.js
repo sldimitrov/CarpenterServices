@@ -10,7 +10,7 @@ function Header() {
           className="navbar navbar-expand-lg navbar-dark fixed-top"
           id="mainNav"
         >
-          <div className="container">
+          <div className="container" id="header-container">
             <a className="navbar-brand" href="#page-top">
               <img src={logo} alt="crossed tools - the logo of the firm" />
             </a>

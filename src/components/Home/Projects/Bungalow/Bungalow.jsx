@@ -1,12 +1,12 @@
 export default function Bungalow() {
   return (
     <>
-      <h2
+      <h1
         className="headings section-subheading text-muted subheading"
         id="bungalow"
       >
         Бунгала
-      </h2>
+      </h1>
       <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0">
         {/* Portfolio item 13*/}
         <div className="portfolio-item">
