@@ -1,9 +1,12 @@
 export default function Bowers() {
   return (
     <>
-      <h2 className="section-subheading text-muted subheading" id="bowers">
+      <h1
+        className="headings section-subheading text-muted subheading"
+        id="bowers"
+      >
         Беседки
-      </h2>
+      </h1>
       <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0">
         {/* Portfolio item 7*/}
         <div className="portfolio-item">

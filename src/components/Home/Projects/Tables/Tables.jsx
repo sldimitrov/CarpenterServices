@@ -1,7 +1,10 @@
 export default function Tables() {
   return (
     <>
-      <h2 className="section-subheading text-muted subheading" id="tables">
+      <h2
+        className="headings section-subheading text-muted subheading"
+        id="tables"
+      >
         Маси с епоксидна смола
       </h2>
       <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0">

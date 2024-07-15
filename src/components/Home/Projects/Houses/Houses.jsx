@@ -1,6 +1,10 @@
 export default function Houses() {
   return (
     <>
+      <h2 className="section-subheading text-muted subheading" id="bungalow">
+        Къщи
+      </h2>
+
       <div className="col-lg-4 col-sm-6 mb-4">
         {/* Portfolio item 1*/}
         <div className="portfolio-item">

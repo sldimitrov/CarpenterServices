@@ -216,21 +216,23 @@ export default function Sheds() {
                         <span className="visually-hidden">Next</span>
                       </button>
                     </div>
-                    <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
-                    </p>
+                    <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
-                        <strong>Клиенти:</strong>
-                        от Карнобат
+                        <strong>Клиент:</strong>
+                        #Човек
                       </li>
                       <li>
                         <strong>Категория:</strong>
-                        Навеси
+                        Къщи
+                      </li>
+                      <li>
+                        <strong>Квадратура:</strong>
+                        #?
+                      </li>
+                      <li>
+                        <strong>Изолация:</strong>
+                        #?
                       </li>
                     </ul>
                     <button
@@ -363,20 +365,23 @@ export default function Sheds() {
                         <span className="visually-hidden">Next</span>
                       </button>
                     </div>
-                    <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
-                    </p>
+                    <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
-                        <strong>Състояние: Продава се!</strong>
+                        <strong>Клиент:</strong>
+                        #Човек
                       </li>
                       <li>
                         <strong>Категория:</strong>
-                        Маси с епоксидна смола
+                        Къщи
+                      </li>
+                      <li>
+                        <strong>Квадратура:</strong>
+                        #?
+                      </li>
+                      <li>
+                        <strong>Изолация:</strong>
+                        #?
                       </li>
                     </ul>
                     <button
@@ -421,21 +426,23 @@ export default function Sheds() {
                       src="assets/img/portfolio/sixth/bekira.jpg"
                       alt="..."
                     />
-                    <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
-                    </p>
+                    <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
                         <strong>Клиент:</strong>
-                        Window
+                        #Човек
                       </li>
                       <li>
                         <strong>Категория:</strong>
-                        Photography
+                        Къщи
+                      </li>
+                      <li>
+                        <strong>Квадратура:</strong>
+                        #?
+                      </li>
+                      <li>
+                        <strong>Изолация:</strong>
+                        #?
                       </li>
                     </ul>
                     <button

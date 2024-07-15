@@ -203,21 +203,23 @@ export default function Houses() {
                       </button>
                     </div>
 
-                    <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
-                    </p>
+                    <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
                         <strong>Клиент:</strong>
-                        Threads
+                        #Човек
                       </li>
                       <li>
                         <strong>Категория:</strong>
                         Къщи
+                      </li>
+                      <li>
+                        <strong>Квадратура:</strong>
+                        #?
+                      </li>
+                      <li>
+                        <strong>Изолация:</strong>
+                        #?
                       </li>
                     </ul>
                     <button
@@ -447,21 +449,23 @@ export default function Houses() {
                         <span className="visually-hidden">Next</span>
                       </button>
                     </div>
-                    <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
-                    </p>
+                    <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
                         <strong>Клиент:</strong>
-                        Threads
+                        #Човек
                       </li>
                       <li>
                         <strong>Категория:</strong>
                         Къщи
+                      </li>
+                      <li>
+                        <strong>Квадратура:</strong>
+                        #?
+                      </li>
+                      <li>
+                        <strong>Изолация:</strong>
+                        #?
                       </li>
                     </ul>
                     <button
@@ -842,21 +846,23 @@ export default function Houses() {
                         <span className="visually-hidden">Next</span>
                       </button>
                     </div>
-                    <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
-                    </p>
+                    <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
                         <strong>Клиент:</strong>
-                        Explore
+                        #Човек
                       </li>
                       <li>
                         <strong>Категория:</strong>
                         Къщи
+                      </li>
+                      <li>
+                        <strong>Квадратура:</strong>
+                        #?
+                      </li>
+                      <li>
+                        <strong>Изолация:</strong>
+                        #?
                       </li>
                     </ul>
                     <button

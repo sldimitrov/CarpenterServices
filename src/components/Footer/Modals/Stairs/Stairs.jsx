@@ -28,21 +28,23 @@ export default function Stairs() {
                       src="assets/img/portfolio/1.jpg"
                       alt="..."
                     />
-                    <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
-                    </p>
+                    <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
-                        <strong>Client:</strong>
-                        Threads
+                        <strong>Клиент:</strong>
+                        #Човек
                       </li>
                       <li>
-                        <strong>Category:</strong>
-                        Illustration
+                        <strong>Категория:</strong>
+                        Къщи
+                      </li>
+                      <li>
+                        <strong>Квадратура:</strong>
+                        #?
+                      </li>
+                      <li>
+                        <strong>Изолация:</strong>
+                        #?
                       </li>
                     </ul>
                     <button
@@ -87,21 +89,23 @@ export default function Stairs() {
                       src="assets/img/portfolio/1.jpg"
                       alt="..."
                     />
-                    <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
-                    </p>
+                    <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
-                        <strong>Client:</strong>
-                        Threads
+                        <strong>Клиент:</strong>
+                        #Човек
                       </li>
                       <li>
-                        <strong>Category:</strong>
-                        Illustration
+                        <strong>Категория:</strong>
+                        Къщи
+                      </li>
+                      <li>
+                        <strong>Квадратура:</strong>
+                        #?
+                      </li>
+                      <li>
+                        <strong>Изолация:</strong>
+                        #?
                       </li>
                     </ul>
                     <button
@@ -146,21 +150,23 @@ export default function Stairs() {
                       src="assets/img/portfolio/1.jpg"
                       alt="..."
                     />
-                    <p>
-                      Use this area to describe your project. Lorem ipsum dolor
-                      sit amet, consectetur adipisicing elit. Est blanditiis
-                      dolorem culpa incidunt minus dignissimos deserunt repellat
-                      aperiam quasi sunt officia expedita beatae cupiditate,
-                      maiores repudiandae, nostrum, reiciendis facere nemo!
-                    </p>
+                    <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
-                        <strong>Client:</strong>
-                        Threads
+                        <strong>Клиент:</strong>
+                        #Човек
                       </li>
                       <li>
-                        <strong>Category:</strong>
-                        Illustration
+                        <strong>Категория:</strong>
+                        Къщи
+                      </li>
+                      <li>
+                        <strong>Квадратура:</strong>
+                        #?
+                      </li>
+                      <li>
+                        <strong>Изолация:</strong>
+                        #?
                       </li>
                     </ul>
                     <button
