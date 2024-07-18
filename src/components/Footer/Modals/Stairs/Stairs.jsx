@@ -19,15 +19,59 @@ export default function Stairs() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Project Name</h2>
+                    <h2 className="text-uppercase">,,Водовъртеж"</h2>
                     <p className="item-intro text-muted">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Права стълба на няколко етажа
                     </p>
-                    <img
-                      className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/1.jpg"
-                      alt="..."
-                    />
+                    <div className="image-container">
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/sixteen/2.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/sixteen/3.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/sixteen/4.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/sixteen/5.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/sixteen/6.jpg"
+                        alt="stairs pictures"
+                      />
+
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/sixteen/8.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/sixteen/9.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/sixteen/10.jpg"
+                        alt="stairs pictures"
+                      />
+
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/sixteen/7.jpg"
+                        alt="stairs pictures"
+                      />
+                    </div>
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
@@ -36,15 +80,7 @@ export default function Stairs() {
                       </li>
                       <li>
                         <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
+                        Стълби
                       </li>
                     </ul>
                     <button
@@ -53,7 +89,7 @@ export default function Stairs() {
                       type="button"
                     >
                       <i className="fas fa-xmark me-1" />
-                      Close Project
+                      Затвори Проекта
                     </button>
                   </div>
                 </div>
@@ -80,15 +116,27 @@ export default function Stairs() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Project Name</h2>
+                    <h2 className="text-uppercase">,,По пътя нагоре</h2>
                     <p className="item-intro text-muted">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Стълба тип ,,пачи крак"
                     </p>
-                    <img
-                      className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/1.jpg"
-                      alt="..."
-                    />
+                    <div className="columns-container">
+                      <img
+                        id="s1"
+                        src="assets/img/portfolio/seventeen/1.jpg"
+                        alt="stair picture"
+                      />
+                      <img
+                        id="s2"
+                        src="assets/img/portfolio/seventeen/2.jpg"
+                        alt="stair picture"
+                      />
+                      <img
+                        id="s3"
+                        src="assets/img/portfolio/seventeen/3.jpg"
+                        alt="stair picture"
+                      />
+                    </div>
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
@@ -97,7 +145,7 @@ export default function Stairs() {
                       </li>
                       <li>
                         <strong>Категория:</strong>
-                        Къщи
+                        Стълби
                       </li>
                       <li>
                         <strong>Квадратура:</strong>
@@ -114,7 +162,7 @@ export default function Stairs() {
                       type="button"
                     >
                       <i className="fas fa-xmark me-1" />
-                      Close Project
+                      Затвори Проекта
                     </button>
                   </div>
                 </div>
@@ -141,15 +189,133 @@ export default function Stairs() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Project Name</h2>
+                    <h2 className="text-uppercase">,,Морско дъно"</h2>
                     <p className="item-intro text-muted">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Перфектното допълнение за вашия интериор!
                     </p>
-                    <img
-                      className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/1.jpg"
-                      alt="..."
-                    />
+                    <div className="image-container">
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/1.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/11.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/12.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/24.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/2.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/4.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/3.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/5.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/6.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/7.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/8.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/9.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/10.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/13.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/14.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/15.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/16.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/17.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/18.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/19.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/25.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/20.jpg"
+                        alt="stairs pictures"
+                      />
+
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/22.jpg"
+                        alt="stairs pictures"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/eighteen/23.jpg"
+                        alt="stairs pictures"
+                      />
+                    </div>
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
@@ -158,15 +324,7 @@ export default function Stairs() {
                       </li>
                       <li>
                         <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
+                        Стълби
                       </li>
                     </ul>
                     <button
@@ -175,7 +333,7 @@ export default function Stairs() {
                       type="button"
                     >
                       <i className="fas fa-xmark me-1" />
-                      Close Project
+                      Затвори Проекта
                     </button>
                   </div>
                 </div>

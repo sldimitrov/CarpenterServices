@@ -22,7 +22,7 @@ export default function Stairs() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/sixteen/1.jpg"
+              src="assets/img/portfolio/sixteen/2.jpg"
               alt="..."
             />
           </a>
@@ -76,14 +76,14 @@ export default function Stairs() {
             </div>
             <img
               className="img-fluid"
-              src="assets/img/portfolio/eighteen/1.jpg"
+              src="assets/img/portfolio/eighteen/11.jpg"
               alt="..."
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">,,Камуфлаж"</div>
+            <div className="portfolio-caption-heading">,,Морско дъно"</div>
             <div className="portfolio-caption-subheading text-muted">
-              Облицовка на бетонена стълба
+              Перфектното допълнение за вашия интериор
             </div>
           </div>
         </div>

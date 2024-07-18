@@ -1,0 +1,11 @@
+.columns-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#s1, #s2, #s3 {
+  width: 350px;
+  border-radius: 25px;
+  box-shadow: 5px 5px 5px blueviolet;
+}

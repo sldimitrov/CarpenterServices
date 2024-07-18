@@ -6,7 +6,9 @@
 }
 
 .slide {
-  width: 200px;
+  width: 198px;
+  padding: 1px;
+  margin: 2px;
 }
 
 #final-photo {

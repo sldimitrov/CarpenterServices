@@ -228,7 +228,7 @@ export default function Bungalows() {
                       type="button"
                     >
                       <i className="fas fa-xmark me-1" />
-                      Close Project
+                      Затвори проекта
                     </button>
                   </div>
                 </div>
@@ -255,15 +255,162 @@ export default function Bungalows() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Project Name</h2>
+                    <h2 className="text-uppercase">,,Бунгало за гости"</h2>
                     <p className="item-intro text-muted">
-                      Lorem ipsum dolor sit amet consectetur.
+                      С тематични колони .
                     </p>
-                    <img
-                      className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/1.jpg"
-                      alt="..."
-                    />
+                    <div className="image-container">
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/1.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w1.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w2.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w4.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w5.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w6.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w7.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w8.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/h1.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/h2.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/h3.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/h4.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w9.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w10.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w11.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w12.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/h5.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/h6.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/h7.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/h8.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w13.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w14.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w15.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w16.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w17.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w18.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w19.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w20.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w21.jpg"
+                        alt="bungalow picture"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/fourteen/w22.jpg"
+                        alt="bungalow picture"
+                      />
+                    </div>
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
@@ -289,7 +436,7 @@ export default function Bungalows() {
                       type="button"
                     >
                       <i className="fas fa-xmark me-1" />
-                      Close Project
+                      Затвори проекта
                     </button>
                   </div>
                 </div>
@@ -316,10 +463,8 @@ export default function Bungalows() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Project Name</h2>
-                    <p className="item-intro text-muted">
-                      Lorem ipsum dolor sit amet consectetur.
-                    </p>
+                    <h2 className="text-uppercase">Бунгало за младоженците</h2>
+                    <p className="item-intro text-muted">На два етажа</p>
                     <img
                       className="img-fluid d-block mx-auto"
                       src="assets/img/portfolio/1.jpg"
@@ -350,7 +495,7 @@ export default function Bungalows() {
                       type="button"
                     >
                       <i className="fas fa-xmark me-1" />
-                      Close Project
+                      Затвори проекта
                     </button>
                   </div>
                 </div>
