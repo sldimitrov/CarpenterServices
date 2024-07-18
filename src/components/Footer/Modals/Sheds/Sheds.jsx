@@ -270,43 +270,19 @@ export default function Sheds() {
                     {/* Project details*/}
                     <h2 id="first">,,Прекарайте време навън"</h2>
                     <p className="item-intro text-muted">Приятно навесче</p>
-                    <div className="carousel">
+                    <div className="image-container">
                       <img
                         src="assets/img/portfolio/fifth/1.jpg"
                         alt="carousel-1"
                         className="slide"
                       />
                       <img
-                        src="assets/img/portfolio/fifth/2.jpg"
-                        alt="carousel-1"
-                        className="slide"
-                      />
-                      <img
-                        src="assets/img/portfolio/fifth/3.jpg"
-                        alt="carousel-1"
-                        className="slide"
-                      />
-                    </div>
-                    <div className="carousel">
-                      <img
                         src="assets/img/portfolio/fifth/4.jpg"
                         alt="carousel-1"
                         className="slide"
                       />
                       <img
-                        src="assets/img/portfolio/fifth/5.jpg"
-                        alt="carousel-1"
-                        className="slide"
-                      />
-                      <img
                         src="assets/img/portfolio/fifth/6.jpg"
-                        alt="carousel-1"
-                        className="slide"
-                      />
-                    </div>
-                    <div className="carousel">
-                      <img
-                        src="assets/img/portfolio/fifth/7.jpg"
                         alt="carousel-1"
                         className="slide"
                       />
@@ -320,8 +296,6 @@ export default function Sheds() {
                         alt="carousel-1"
                         className="slide"
                       />
-                    </div>
-                    <div className="carousel">
                       <img
                         src="assets/img/portfolio/fifth/10.jpg"
                         alt="carousel-1"
@@ -337,25 +311,21 @@ export default function Sheds() {
                         alt="carousel-1"
                         className="slide"
                       />
-                    </div>
-                    <div className="carousel">
                       <img
                         src="assets/img/portfolio/fifth/13.jpg"
                         alt="carousel-1"
                         className="slide"
                       />
                       <img
-                        src="assets/img/portfolio/fifth/14.jpg"
+                        src="assets/img/portfolio/fifth/18.jpg"
                         alt="carousel-1"
                         className="slide"
                       />
                       <img
-                        src="assets/img/portfolio/fifth/15.jpg"
+                        src="assets/img/portfolio/fifth/7.jpg"
                         alt="carousel-1"
                         className="slide"
                       />
-                    </div>
-                    <div className="carousel">
                       <img
                         src="assets/img/portfolio/fifth/16.jpg"
                         alt="carousel-1"
@@ -367,12 +337,10 @@ export default function Sheds() {
                         className="slide"
                       />
                       <img
-                        src="assets/img/portfolio/fifth/18.jpg"
+                        src="assets/img/portfolio/fifth/15.jpg"
                         alt="carousel-1"
                         className="slide"
                       />
-                    </div>
-                    <div className="carousel">
                       <img
                         src="assets/img/portfolio/fifth/19.jpg"
                         alt="carousel-1"
@@ -383,7 +351,28 @@ export default function Sheds() {
                         alt="carousel-1"
                         className="slide"
                       />
+                      <img
+                        src="assets/img/portfolio/fifth/2.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/3.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/5.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/7.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
                     </div>
+
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>

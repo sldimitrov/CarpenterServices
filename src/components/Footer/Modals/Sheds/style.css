@@ -11,6 +11,17 @@
   height: 400px;
 }
 
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.slide {
+  width: 200px;
+}
+
 .slide {
   border-radius: 0.5rem;
   box-shadow: 0px 0px 7px #666;
