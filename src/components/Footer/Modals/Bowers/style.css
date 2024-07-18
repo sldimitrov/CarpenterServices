@@ -8,3 +8,7 @@
 .slide {
   width: 200px;
 }
+
+#final-photo {
+  max-width: 400px;
+}

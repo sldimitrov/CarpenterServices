@@ -19,15 +19,95 @@ export default function Bowers() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Project Name</h2>
-                    <p className="item-intro text-muted">
-                      Lorem ipsum dolor sit amet consectetur.
-                    </p>
-                    <img
-                      className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/1.jpg"
-                      alt="..."
-                    />
+                    <h2 className="text-uppercase">Бистро ,,Градина"</h2>
+                    <p className="item-intro text-muted">Банкетна зала, бар</p>
+                    <div className="image-container">
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/1.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/2.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/3.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/12.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/5.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/6.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/7.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/8.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/9.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/10.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/11.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/13.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/14.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/15.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/16.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        className="slide"
+                        src="assets/img/portfolio/seventh/17.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                      <img
+                        id="final-photo"
+                        src="assets/img/portfolio/seventh/shed_3.jpg"
+                        alt="photo of Bistro Gradina"
+                      />
+                    </div>
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
@@ -141,7 +221,7 @@ export default function Bowers() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Project Name</h2>
+                    <h2 className="text-uppercase">Бистро ,,Градина"</h2>
                     <p className="item-intro text-muted">
                       Lorem ipsum dolor sit amet consectetur.
                     </p>

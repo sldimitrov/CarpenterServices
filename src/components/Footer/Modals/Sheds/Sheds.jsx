@@ -429,7 +429,48 @@ export default function Sheds() {
                     <p className="item-intro text-muted">
                       Скоро отваря врати...
                     </p>
-
+                    <div className="image-container">
+                      <img
+                        src="assets/img/portfolio/sixth/1.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/sixth/2.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/sixth/3.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/sixth/1.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/sixth/5.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/sixth/6.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/sixth/7.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/sixth/8.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                    </div>
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
