@@ -270,32 +270,120 @@ export default function Sheds() {
                     {/* Project details*/}
                     <h2 id="first">,,Прекарайте време навън"</h2>
                     <p className="item-intro text-muted">Приятно навесче</p>
-                    <section className="container">
-                      <div className="slider-wrapper">
-                        <div className="slider">
-                          <img
-                            id="slide-1"
-                            src="assets/img/portfolio/forth/5.jpg"
-                            alt="example"
-                          />
-                          <img
-                            id="slide-2"
-                            src="assets/img/portfolio/forth/6.jpg"
-                            alt="example"
-                          />
-                          <img
-                            id="slide-3"
-                            src="assets/img/portfolio/forth/7.jpg"
-                            alt="example"
-                          />
-                        </div>
-                        <div className="slider-nav">
-                          <a href="#slide-1"></a>
-                          <a href="#slide-2"></a>
-                          <a href="#slide-3"></a>
-                        </div>
-                      </div>
-                    </section>
+                    <div className="carousel">
+                      <img
+                        src="assets/img/portfolio/fifth/1.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/2.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/3.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                    </div>
+                    <div className="carousel">
+                      <img
+                        src="assets/img/portfolio/fifth/4.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/5.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/6.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                    </div>
+                    <div className="carousel">
+                      <img
+                        src="assets/img/portfolio/fifth/7.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/8.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/9.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                    </div>
+                    <div className="carousel">
+                      <img
+                        src="assets/img/portfolio/fifth/10.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/11.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/12.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                    </div>
+                    <div className="carousel">
+                      <img
+                        src="assets/img/portfolio/fifth/13.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/14.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/15.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                    </div>
+                    <div className="carousel">
+                      <img
+                        src="assets/img/portfolio/fifth/16.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/17.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/18.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                    </div>
+                    <div className="carousel">
+                      <img
+                        src="assets/img/portfolio/fifth/19.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                      <img
+                        src="assets/img/portfolio/fifth/20.jpg"
+                        alt="carousel-1"
+                        className="slide"
+                      />
+                    </div>
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
@@ -352,11 +440,7 @@ export default function Sheds() {
                     <p className="item-intro text-muted">
                       Скоро отваря врати...
                     </p>
-                    <img
-                      className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/sixth/bekira.jpg"
-                      alt="..."
-                    />
+
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
