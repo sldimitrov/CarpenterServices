@@ -1,9 +1,9 @@
-export default function Bungalow() {
+export default function Bungalows() {
   return (
     <>
       <h1
         className="headings section-subheading text-muted subheading"
-        id="bungalow"
+        id="bungalows"
       >
         Бунгала
       </h1>

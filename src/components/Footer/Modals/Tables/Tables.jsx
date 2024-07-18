@@ -162,20 +162,11 @@ export default function Tables() {
                     <p>Това място ще се използва за описание на проекта. </p>
                     <ul className="list-inline">
                       <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
                         <strong>Категория:</strong>
-                        Къщи
+                        Маси с епоксидна смола
                       </li>
                       <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
+                        <strong>Състояние:</strong>Продадена
                       </li>
                     </ul>
                     <button
@@ -235,6 +226,9 @@ export default function Tables() {
                     <ul className="list-inline">
                       <li>
                         <strong>Клиент:</strong>Анонимен
+                      </li>
+                      <li>
+                        <strong>Състояние:</strong>Продадена
                       </li>
                       <li>
                         <strong>Категория:</strong>

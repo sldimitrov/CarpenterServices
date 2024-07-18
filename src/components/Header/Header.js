@@ -67,7 +67,7 @@ function Header() {
                           </a>
                         </li>
                         <li>
-                          <a className="dropdown-item" href="#bungalow">
+                          <a className="dropdown-item" href="#bungalows">
                             Бунгала
                           </a>
                         </li>
