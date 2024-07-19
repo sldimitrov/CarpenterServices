@@ -3,7 +3,9 @@ export default function About() {
     <section className="page-section" id="about">
       <div className="container">
         <div className="text-center">
-          <h2 className="section-heading text-uppercase">Относно нас</h2>
+          <h2 className="section-heading text-uppercase main-font">
+            Относно нас
+          </h2>
           <h3 className="section-subheading text-muted">
             "Едно от нещата, които ни свързват като семейство, е чувството за
             хумор."
@@ -111,15 +113,17 @@ export default function About() {
             </div>
           </li>
           <li className="timeline-inverted">
-            <div className="timeline-image">
-              <h4>
-                Бъди Част
-                <br />
-                От Нашата
-                <br />
-                История!
-              </h4>
-            </div>
+            <a href="#contact">
+              <div className="timeline-image">
+                <h4>
+                  Бъди Част
+                  <br />
+                  От Нашата
+                  <br />
+                  История!
+                </h4>
+              </div>
+            </a>
           </li>
         </ul>
       </div>

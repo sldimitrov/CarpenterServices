@@ -10,7 +10,7 @@ export default function Projects() {
     <section className="page-section bg-light" id="portfolio">
       <div className="container">
         <div className="text-center">
-          <h2 className="section-heading text-uppercase">Проекти</h2>
+          <h2 className="section-heading text-uppercase main-font">Проекти</h2>
         </div>
         <div className="row">
           <Houses />

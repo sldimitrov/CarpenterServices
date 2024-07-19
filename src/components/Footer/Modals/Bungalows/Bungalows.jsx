@@ -183,22 +183,22 @@ export default function Bungalows() {
                         alt="white bungalow"
                       />
                       <img
-                        className="slide"
+                        className="slide bungalow-shadow"
                         src="assets/img/portfolio/thirteen/h21.jpg"
                         alt="white bungalow"
                       />
                       <img
-                        className="slide"
+                        className="slide bungalow-shadow"
                         src="assets/img/portfolio/thirteen/h22.jpg"
                         alt="white bungalow"
                       />
                       <img
-                        className="slide"
+                        className="slide bungalow-shadow"
                         src="assets/img/portfolio/thirteen/h23.jpg"
                         alt="white bungalow"
                       />
                       <img
-                        className="slide"
+                        className="slide bungalow-shadow"
                         src="assets/img/portfolio/thirteen/h24.jpg"
                         alt="white bungalow"
                       />
@@ -401,12 +401,12 @@ export default function Bungalows() {
                         alt="bungalow picture"
                       />
                       <img
-                        className="slide"
+                        className="slide bungalow-shadow"
                         src="assets/img/portfolio/fourteen/w21.jpg"
                         alt="bungalow picture"
                       />
                       <img
-                        className="slide"
+                        className="slide bungalow-shadow"
                         src="assets/img/portfolio/fourteen/w22.jpg"
                         alt="bungalow picture"
                       />
@@ -463,11 +463,13 @@ export default function Bungalows() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Бунгало за младоженците</h2>
+                    <h2 className="text-uppercase" id="title-size">
+                      За младоженците
+                    </h2>
                     <p className="item-intro text-muted">На два етажа</p>
                     <img
-                      className="img-fluid d-block mx-auto"
-                      src="assets/img/portfolio/1.jpg"
+                      className="img-fluid d-block mx-auto bungalow-shadow"
+                      src="assets/img/portfolio/fifteen/1.jpg"
                       alt="..."
                     />
                     <p>Това място ще се използва за описание на проекта. </p>

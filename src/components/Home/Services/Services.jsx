@@ -9,7 +9,7 @@ export default function Services() {
     <section className="page-section" id="services">
       <div className="container">
         <div className="text-center">
-          <h2 className="section-heading text-uppercase">Услуги</h2>
+          <h2 className="section-heading text-uppercase main-font">Услуги</h2>
           <h3 className="section-subheading text-muted">
             Ние сме фирма, която е специализирала в това да построява леки,
             здрави и устойчиви дървени конструкции.

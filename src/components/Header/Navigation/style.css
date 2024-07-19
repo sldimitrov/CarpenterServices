@@ -1,0 +1,17 @@
+#header-container{
+  padding-bottom: 0px;
+}
+
+
+#logo-icon {
+  width: 120px;
+  height: 80px;
+}
+
+@media only screen and (max-width: 768px) {
+  #logo-icon {
+    width: 100px;
+    height: 70px;
+    margin-left: 15px;
+  }
+}

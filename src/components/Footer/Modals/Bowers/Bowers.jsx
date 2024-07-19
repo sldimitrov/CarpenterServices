@@ -102,8 +102,10 @@ export default function Bowers() {
                         src="assets/img/portfolio/seventh/17.jpg"
                         alt="photo of Bistro Gradina"
                       />
+                      <br />
                       <img
                         id="final-photo"
+                        className="purple-shadow"
                         src="assets/img/portfolio/seventh/shed_3.jpg"
                         alt="photo of Bistro Gradina"
                       />
@@ -348,12 +350,12 @@ export default function Bowers() {
                         alt="image of a Bower"
                       />
                       <img
-                        className="slide"
+                        className="slide purple-shadow"
                         src="assets/img/portfolio/eight/35.jpg"
                         alt="image of a Bower"
                       />
                       <img
-                        className="slide"
+                        className="slide purple-shadow"
                         src="assets/img/portfolio/eight/32.jpg"
                         alt="image of a Bower"
                       />
@@ -498,12 +500,12 @@ export default function Bowers() {
                         alt="Bowers image"
                       />
                       <img
-                        className="slide"
+                        className="slide purple-shadow"
                         src="assets/img/portfolio/nine/w13.jpg"
                         alt="Bowers image"
                       />
                       <img
-                        className="slide"
+                        className="slide purple-shadow"
                         src="assets/img/portfolio/nine/w14.jpg"
                         alt="Bowers image"
                       />

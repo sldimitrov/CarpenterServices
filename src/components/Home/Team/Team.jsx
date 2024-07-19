@@ -3,7 +3,7 @@ export default function Team() {
     <section className="page-section bg-light" id="team">
       <div className="container">
         <div className="text-center">
-          <h2 className="section-heading text-uppercase">
+          <h2 className="section-heading text-uppercase main-font">
             Нашият уникален отбор
           </h2>
           <h3 className="section-subheading text-muted">

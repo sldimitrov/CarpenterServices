@@ -55,19 +55,41 @@ export default function Tables() {
                       src="assets/img/portfolio/ten/3.jpg"
                       alt="red devil table"
                     />
-                    <p>Това място ще се използва за описание на проекта. </p>
+                    <p>
+                      Отнемаща дъха маса от орех с епоксидна смола
+                      (черно-червена) и железни крака.
+                    </p>
                     <ul className="list-inline">
                       <li>
-                        <strong>Клиент:</strong>
-                        Търси се...
+                        <strong>Клиент: </strong>
+                        <i>Търси се...</i>
                       </li>
                       <li>
-                        <strong>Категория:</strong>
+                        <strong>Височина: </strong>
+                        75см
+                      </li>
+                      <li>
+                        <strong>Размерите на плота: </strong>
+                        198х58х3см
+                      </li>
+                      <li>
+                        <strong>Обработка: </strong>
+                        Rubio monocoat cleaner и oil plus 2c.
+                      </li>
+                      <li>
+                        <strong>Категория: </strong>
                         Маси с епоксидна смола
                       </li>
                       <li>
-                        <strong>Състояние:</strong>
-                        <p id="selling">Продава сe</p>
+                        <p id="selling">Продава сe!</p>
+                        <i id="timer">
+                          <strong>
+                            <p id="sale">-30%</p>
+                          </strong>
+                          До края на месеца
+                        </i>{" "}
+                        <br />
+                        <i id="tables-number">089 4250 555</i>
                       </li>
                     </ul>
                     <button
@@ -212,6 +234,7 @@ export default function Tables() {
                       />
                       <img
                         className="slide"
+                        id="light"
                         src="assets/img/portfolio/twelve/1.jpg"
                         alt="table that glows in the dark"
                       />

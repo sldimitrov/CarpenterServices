@@ -83,9 +83,7 @@ export default function Bungalows() {
             />
           </a>
           <div className="portfolio-caption">
-            <div className="portfolio-caption-heading">
-              ,,Бунгало за младоженците"
-            </div>
+            <div className="portfolio-caption-heading">,,За младоженците"</div>
             <div className="portfolio-caption-subheading text-muted">
               На два етажа
             </div>

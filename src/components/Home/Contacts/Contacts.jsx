@@ -34,14 +34,14 @@ export default function Contacts() {
       <section className="page-section" id="contact">
         <div className="container">
           <div className="text-center">
-            <h2 className="section-heading text-uppercase">
+            <h2 className="section-heading text-uppercase main-font">
               Свържете се с нас
             </h2>
             <h2 className="section-subheading" id="big-number">
-              087 6173123
+              <i>087 6173123</i>
             </h2>
 
-            <h3 className="section-subheading text-muted">
+            <h3 className="section-subheading" id="sub-title-text">
               Вашето мнение е важно за нас!
             </h3>
           </div>
@@ -55,7 +55,7 @@ export default function Contacts() {
                     id="name"
                     type="text"
                     name="name"
-                    placeholder="Your Name *"
+                    placeholder="Вашите Имена *"
                     data-sb-validations="required"
                     required
                   />
@@ -73,7 +73,7 @@ export default function Contacts() {
                     id="email"
                     type="email"
                     name="email"
-                    placeholder="Your Email *"
+                    placeholder="Вашият Имейл *"
                     data-sb-validations="required,email"
                     required
                   />
@@ -97,7 +97,7 @@ export default function Contacts() {
                     id="phone"
                     type="tel"
                     name="tel"
-                    placeholder="Your Phone *"
+                    placeholder="Телефон за връзка *"
                     data-sb-validations="required"
                     required
                   />
@@ -116,7 +116,7 @@ export default function Contacts() {
                     className="form-control"
                     id="message"
                     name="message"
-                    placeholder="Your Message *"
+                    placeholder="Събщение / Запитване *"
                     data-sb-validations="required"
                     defaultValue={""}
                     required
@@ -163,7 +163,7 @@ export default function Contacts() {
                 id="submitButton"
                 type="submit"
               >
-                Send Message
+                Изпрати съобщение
               </button>
             </div>
           </form>

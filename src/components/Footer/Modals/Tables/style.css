@@ -11,16 +11,52 @@
   flex-wrap: wrap;
 }
 
-
 .top-bottom {
   max-width: 400px;
   padding: 1px;
   border-radius: 25px;
-  box-shadow: 2px 2px;
+  box-shadow: 5px 5px 5px rgb(255, 92, 92);
+}
+
+.top-bottom:hover {
+  box-shadow: 4px 4px 4px rgb(246, 27, 27);
 }
 
 #selling {
-  color: rgb(243, 66, 125);
-  font-size: 28px;
+  color: rgb(244, 40, 74);
+  font-size: 35px;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  margin: 0px;
+}
+
+#sale {
+  color: rgb(233, 50, 111);
+  opacity: 0.9;
+  font-size: 60px;
+  padding: 0px;
+  margin: 0px;
+}
+
+#sale:hover {
+  opacity: 1;
+}
+
+#timer {
+  font-size: 22px;
+  color: rgb(118, 118, 118);
+}
+
+#tables-number {
+  font-size: 30px;
+}
+
+#light {
+  box-shadow: 2px 2px 2px 2px green;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#light:hover {
+  box-shadow: 3px 3px 3px rgb(19, 227, 19);
+
 }
