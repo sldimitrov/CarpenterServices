@@ -20,9 +20,11 @@ export default function Services() {
         <div className="row text-center">
           <div className="col-md-4">
             <div className="icon-container">
-              <form className="icon-bg">
-                <img src={shedIcon} alt="gear" className="icon"></img>
-              </form>
+              <a href="#bowers">
+                <form className="icon-bg">
+                  <img src={shedIcon} alt="gear" className="icon"></img>
+                </form>
+              </a>
             </div>
             <h4 className="my-3">Беседки</h4>
             <svg
@@ -106,9 +108,11 @@ export default function Services() {
           <div className="col-md-4">
             <span className="fa-stack fa-4x">
               <div className="icon-container">
-                <form className="icon-bg">
-                  <img src={housesIcon} alt="gear" className="icon"></img>
-                </form>
+                <a href="#portfolio">
+                  <form className="icon-bg">
+                    <img src={housesIcon} alt="gear" className="icon"></img>
+                  </form>
+                </a>
               </div>
             </span>
             <h4 className="my-3">Дървени къщи</h4>
@@ -189,9 +193,11 @@ export default function Services() {
           </div>
           <div className="col-md-4">
             <div className="icon-container">
-              <form className="icon-bg">
-                <img src={shelterIcon} alt="gear" className="icon"></img>
-              </form>
+              <a href="#sheds">
+                <form className="icon-bg">
+                  <img src={shelterIcon} alt="gear" className="icon"></img>
+                </form>
+              </a>
             </div>
             <h4 className="my-3">Навеси</h4>
             <svg
@@ -275,9 +281,11 @@ export default function Services() {
           </div>
           <div className="col-md-4">
             <div className="icon-container">
-              <form className="icon-bg">
-                <img src={tableIcon} alt="gear" className="icon"></img>
-              </form>
+              <a href="#tables">
+                <form className="icon-bg">
+                  <img src={tableIcon} alt="gear" className="icon" />
+                </form>
+              </a>
             </div>
             <h4 className="my-3">Маси с епоксидна смола</h4>
             <svg
@@ -380,18 +388,20 @@ export default function Services() {
           <div className="col-md-4">
             <div className="icon-container">
               <form className="icon-bg">
-                <svg
-                  width="80"
-                  height="80"
-                  viewBox="0 0 16 16"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M2.97071 1.34921C3.16069 1.12756 3.43804 1 3.72997 1H12.27C12.562 1 12.8393 1.12756 13.0293 1.34921L15.6389 4.39374C15.8719 4.6656 16 5.01186 16 5.36992V5.625C16 6.93668 14.9367 8 13.625 8C12.8629 8 12.1846 7.64102 11.75 7.08291C11.3154 7.64102 10.6371 8 9.875 8C9.11287 8 8.43458 7.64102 8 7.08291C7.56542 7.64102 6.88714 8 6.125 8C5.36286 8 4.68458 7.64102 4.25 7.08291C3.81542 7.64102 3.13713 8 2.375 8C1.06332 8 0 6.93668 0 5.625V5.36992C0 5.01186 0.128088 4.6656 0.361115 4.39374L2.97071 1.34921ZM4.75 5.625C4.75 6.38439 5.36561 7 6.125 7C6.88439 7 7.5 6.38439 7.5 5.625C7.5 5.34886 7.72386 5.125 8 5.125C8.27614 5.125 8.5 5.34886 8.5 5.625C8.5 6.38439 9.11561 7 9.875 7C10.6344 7 11.25 6.38439 11.25 5.625C11.25 5.34886 11.4739 5.125 11.75 5.125C12.0261 5.125 12.25 5.34886 12.25 5.625C12.25 6.38439 12.8656 7 13.625 7C14.3844 7 15 6.38439 15 5.625V5.36992C15 5.25057 14.9573 5.13515 14.8796 5.04453L12.27 2H3.72997L1.12037 5.04453C1.0427 5.13515 1 5.25057 1 5.36992V5.625C1 6.38439 1.61561 7 2.375 7C3.13439 7 3.75 6.38439 3.75 5.625C3.75 5.34886 3.97386 5.125 4.25 5.125C4.52614 5.125 4.75 5.34886 4.75 5.625ZM1.5 8.5C1.77614 8.5 2 8.72386 2 9V15H14V9C14 8.72386 14.2239 8.5 14.5 8.5C14.7761 8.5 15 8.72386 15 9V15H15.5C15.7761 15 16 15.2239 16 15.5C16 15.7761 15.7761 16 15.5 16H0.5C0.223858 16 0 15.7761 0 15.5C0 15.2239 0.223858 15 0.5 15H1V9C1 8.72386 1.22386 8.5 1.5 8.5ZM3.5 9C3.77614 9 4 9.22386 4 9.5V13H12V9.5C12 9.22386 12.2239 9 12.5 9C12.7761 9 13 9.22386 13 9.5V13C13 13.5523 12.5523 14 12 14H4C3.44772 14 3 13.5523 3 13V9.5C3 9.22386 3.22386 9 3.5 9Z"
-                    fill="black"
-                  />
-                </svg>
+                <a className="dropdown-item" href="#bungalows">
+                  <svg
+                    width="80"
+                    height="80"
+                    viewBox="0 0 16 16"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M2.97071 1.34921C3.16069 1.12756 3.43804 1 3.72997 1H12.27C12.562 1 12.8393 1.12756 13.0293 1.34921L15.6389 4.39374C15.8719 4.6656 16 5.01186 16 5.36992V5.625C16 6.93668 14.9367 8 13.625 8C12.8629 8 12.1846 7.64102 11.75 7.08291C11.3154 7.64102 10.6371 8 9.875 8C9.11287 8 8.43458 7.64102 8 7.08291C7.56542 7.64102 6.88714 8 6.125 8C5.36286 8 4.68458 7.64102 4.25 7.08291C3.81542 7.64102 3.13713 8 2.375 8C1.06332 8 0 6.93668 0 5.625V5.36992C0 5.01186 0.128088 4.6656 0.361115 4.39374L2.97071 1.34921ZM4.75 5.625C4.75 6.38439 5.36561 7 6.125 7C6.88439 7 7.5 6.38439 7.5 5.625C7.5 5.34886 7.72386 5.125 8 5.125C8.27614 5.125 8.5 5.34886 8.5 5.625C8.5 6.38439 9.11561 7 9.875 7C10.6344 7 11.25 6.38439 11.25 5.625C11.25 5.34886 11.4739 5.125 11.75 5.125C12.0261 5.125 12.25 5.34886 12.25 5.625C12.25 6.38439 12.8656 7 13.625 7C14.3844 7 15 6.38439 15 5.625V5.36992C15 5.25057 14.9573 5.13515 14.8796 5.04453L12.27 2H3.72997L1.12037 5.04453C1.0427 5.13515 1 5.25057 1 5.36992V5.625C1 6.38439 1.61561 7 2.375 7C3.13439 7 3.75 6.38439 3.75 5.625C3.75 5.34886 3.97386 5.125 4.25 5.125C4.52614 5.125 4.75 5.34886 4.75 5.625ZM1.5 8.5C1.77614 8.5 2 8.72386 2 9V15H14V9C14 8.72386 14.2239 8.5 14.5 8.5C14.7761 8.5 15 8.72386 15 9V15H15.5C15.7761 15 16 15.2239 16 15.5C16 15.7761 15.7761 16 15.5 16H0.5C0.223858 16 0 15.7761 0 15.5C0 15.2239 0.223858 15 0.5 15H1V9C1 8.72386 1.22386 8.5 1.5 8.5ZM3.5 9C3.77614 9 4 9.22386 4 9.5V13H12V9.5C12 9.22386 12.2239 9 12.5 9C12.7761 9 13 9.22386 13 9.5V13C13 13.5523 12.5523 14 12 14H4C3.44772 14 3 13.5523 3 13V9.5C3 9.22386 3.22386 9 3.5 9Z"
+                      fill="black"
+                    />
+                  </svg>
+                </a>
               </form>
             </div>
             <h4 className="my-3">Бунгала</h4>
@@ -419,7 +429,6 @@ export default function Services() {
                 fill="black"
               />
             </svg>
-
             <p className="text-muted">
               Дървени бунгала, приковаващи вниманието от пръв поглед!
             </p>
@@ -456,9 +465,11 @@ export default function Services() {
           </div>
           <div className="col-md-4">
             <div className="icon-container">
-              <form className="icon-bg">
-                <img src={stairsIcon} alt="gear" className="icon"></img>
-              </form>
+              <a href="#stairs">
+                <form className="icon-bg">
+                  <img src={stairsIcon} alt="gear" className="icon"></img>
+                </form>
+              </a>
             </div>
             <h4 className="my-3">Стълби</h4>
             <svg

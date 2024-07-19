@@ -5,3 +5,13 @@
     text-transform: uppercase;
   }
 }
+
+#carouselExample {
+  width: 100%;
+  display: flex;
+}
+
+#carouselExampleIndicators, #carouselExampleControls, #carouselExampleCaptions {
+  width: 100%;
+  display: flex;
+}

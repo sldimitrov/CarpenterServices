@@ -31,14 +31,14 @@ export default function Houses() {
                         <div className="carousel-item active">
                           <img
                             src="assets/img/portfolio/first/house_1.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/1.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
@@ -46,133 +46,133 @@ export default function Houses() {
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/3.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/4.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/5.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/6.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/7.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/9.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/12.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/13.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/14.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/15.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/16.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/17.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/18.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/19.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/20.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/21.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/22.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/23.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/first/24.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
@@ -342,70 +342,70 @@ export default function Houses() {
                         <div className="carousel-item active">
                           <img
                             src="assets/img/portfolio/second/finish.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/1.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/2.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/3.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/4.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/5.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/6.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/7.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/8.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
                         <div className="carousel-item">
                           <img
                             src="assets/img/portfolio/second/9.jpg"
-                            className="d-block w-100"
+                            className="test"
                             alt="..."
                           />
                         </div>
@@ -780,7 +780,7 @@ export default function Houses() {
                         </div>
                         <div className="carousel-item">
                           <img
-                            src="assets/img/portfolio/third/42.jpg"
+                            src="assets/img/portfolio/third/150.jpg"
                             className="d-block w-100"
                             alt="..."
                           />

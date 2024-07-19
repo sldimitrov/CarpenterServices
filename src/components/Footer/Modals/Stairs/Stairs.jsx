@@ -67,6 +67,7 @@ export default function Stairs() {
                       />
 
                       <img
+                        id="s4"
                         className="slide"
                         src="assets/img/portfolio/sixteen/7.jpg"
                         alt="stairs pictures"
@@ -295,23 +296,23 @@ export default function Stairs() {
                         alt="stairs pictures"
                       />
                       <img
-                        className="slide"
+                        className="slide purple"
                         src="assets/img/portfolio/eighteen/25.jpg"
                         alt="stairs pictures"
                       />
                       <img
-                        className="slide"
+                        className="slide purple"
                         src="assets/img/portfolio/eighteen/20.jpg"
                         alt="stairs pictures"
                       />
 
                       <img
-                        className="slide"
+                        className="slide purple"
                         src="assets/img/portfolio/eighteen/22.jpg"
                         alt="stairs pictures"
                       />
                       <img
-                        className="slide"
+                        className="slide purple"
                         src="assets/img/portfolio/eighteen/23.jpg"
                         alt="stairs pictures"
                       />
