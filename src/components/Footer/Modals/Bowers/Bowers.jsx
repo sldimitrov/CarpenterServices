@@ -110,25 +110,12 @@ export default function Bowers() {
                         alt="photo of Bistro Gradina"
                       />
                     </div>
-                    <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+                    <p>
+                      Чудно местенце с капацитет, които дава възможност за
+                      големи събирания. Бар, навеси и кухня, които задоволяват
+                      всички посетители. През деня работи като кафе и заедно с
+                      това предлага детски кът за най-малките.
+                    </p>
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
@@ -360,25 +347,11 @@ export default function Bowers() {
                         alt="image of a Bower"
                       />
                     </div>
-                    <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+                    <p>
+                      Банкетна зала от която всеки си тръгва с хубави спомени
+                      след тежки вечери. Ангета на чеверме и само домашен
+                      алкохол не са чужки.
+                    </p>
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
@@ -510,25 +483,12 @@ export default function Bowers() {
                         alt="Bowers image"
                       />
                     </div>
-                    <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+                    <p>
+                      Отпред приятна механа, а отзад сватбена зала, която
+                      годишно сплотява стотици влюбени двойки и бива посещавана
+                      от стотици хиляди гости годишно.
+                    </p>
+
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"

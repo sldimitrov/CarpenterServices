@@ -202,26 +202,12 @@ export default function Houses() {
                         <span className="visually-hidden">Next</span>
                       </button>
                     </div>
-
-                    <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+                    <p>
+                      Двуетажна къща - комбинация от камък, дърво и минерална
+                      мазилка. Вътре - вътрешбо стълбище, спалня на втория етаж
+                      и веранда. Къщата предлага изглед към цял Бургас и
+                      солниците.
+                    </p>
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
@@ -449,25 +435,12 @@ export default function Houses() {
                         <span className="visually-hidden">Next</span>
                       </button>
                     </div>
-                    <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+                    <p>
+                      Стилна къща на два етажа. На първия етаж се помещава
+                      огромна банкетна зала, офиси, склад. На втория етаж са
+                      разположени 4 апартамента.
+                    </p>
+
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
@@ -846,25 +819,12 @@ export default function Houses() {
                         <span className="visually-hidden">Next</span>
                       </button>
                     </div>
-                    <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+                    <p>
+                      100 квадрата, 2 пални, облякана с тип венецианска мазилка.
+                      Разполага с външен басейн с термо-помпа за отопление през
+                      зимата. Външен навес, комбиниран хол с кухня, панорамни
+                      прозорци, параклис от дърво.
+                    </p>
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"

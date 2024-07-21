@@ -7,6 +7,7 @@ export default function Contacts() {
   const onSubmit = async (event) => {
     event.preventDefault();
     setResult("Sending....");
+    console.log("sending");
     const formData = new FormData(event.target);
 
     formData.append("access_key", "0c4c1d64-dd01-4272-98fa-5631a69c188d");
@@ -20,6 +21,7 @@ export default function Contacts() {
 
     if (data.success) {
       setResult("Form Submitted Successfully");
+      console.log("Form Submitted Successfully");
       setIsSend(true);
       event.target.reset();
     } else {

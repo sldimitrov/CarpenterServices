@@ -216,25 +216,11 @@ export default function Sheds() {
                         <span className="visually-hidden">Next</span>
                       </button>
                     </div>
-                    <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+                    <p>
+                      Тук Ви предвавяме немалък навес с осн греди 25x25см и
+                      конструкцията 8x16см ребра. Дълъг е 12метра. Като
+                      допълнение е изградена затворена камина.
+                    </p>
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
@@ -372,26 +358,12 @@ export default function Sheds() {
                         className="slide"
                       />
                     </div>
-
-                    <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+                    <p>
+                      Клиентът ни искаше да се отърве от лятната горещина. Ние
+                      му предложихме решение в лицето на този страхотен и уютен
+                      навес. Съчетание от старобългарски родопски таван и
+                      модерен екстериор, които придава неотличим завършек.
+                    </p>
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
@@ -471,25 +443,7 @@ export default function Sheds() {
                         className="slide"
                       />
                     </div>
-                    <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+                    <p>Проектът не е завършен...</p>
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"

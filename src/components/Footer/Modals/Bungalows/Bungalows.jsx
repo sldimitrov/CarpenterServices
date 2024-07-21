@@ -204,24 +204,6 @@ export default function Bungalows() {
                       />
                     </div>
                     <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
@@ -412,24 +394,7 @@ export default function Bungalows() {
                       />
                     </div>
                     <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
+
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
@@ -473,24 +438,6 @@ export default function Bungalows() {
                       alt="..."
                     />
                     <p>Това място ще се използва за описание на проекта. </p>
-                    <ul className="list-inline">
-                      <li>
-                        <strong>Клиент:</strong>
-                        #Човек
-                      </li>
-                      <li>
-                        <strong>Категория:</strong>
-                        Къщи
-                      </li>
-                      <li>
-                        <strong>Квадратура:</strong>
-                        #?
-                      </li>
-                      <li>
-                        <strong>Изолация:</strong>
-                        #?
-                      </li>
-                    </ul>
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
