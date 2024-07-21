@@ -15,13 +15,13 @@ export default function Bungalows() {
             data-bs-toggle="modal"
             href="#portfolioModal13"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/thirteen/1.jpg"
               alt="..."
             />
@@ -44,18 +44,18 @@ export default function Bungalows() {
             data-bs-toggle="modal"
             href="#portfolioModal14"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/fourteen/1.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Къщата на Хобит"</div>
             <div className="portfolio-caption-subheading text-muted">
               С тематични колони
@@ -71,18 +71,18 @@ export default function Bungalows() {
             data-bs-toggle="modal"
             href="#portfolioModal15"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/fifteen/1.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,За младоженците"</div>
             <div className="portfolio-caption-subheading text-muted">
               На два етажа

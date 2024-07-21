@@ -15,18 +15,18 @@ export default function Tables() {
             data-bs-toggle="modal"
             href="#portfolioModal10"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/ten/1.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Червеният дявол"</div>
             <div className="portfolio-caption-subheading text-muted">
               <strong>Продава се!</strong>
@@ -42,18 +42,18 @@ export default function Tables() {
             data-bs-toggle="modal"
             href="#portfolioModal11"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/eleven/1.png"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Синя смола"</div>
             <div className="portfolio-caption-subheading text-muted">
               Продадена
@@ -69,18 +69,18 @@ export default function Tables() {
             data-bs-toggle="modal"
             href="#portfolioModal12"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/twelve/3.png"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">Светеща в тъмното</div>
             <div className="portfolio-caption-subheading text-muted">
               Продадена

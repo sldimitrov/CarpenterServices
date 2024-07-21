@@ -15,18 +15,18 @@ export default function Stairs() {
             data-bs-toggle="modal"
             href="#portfolioModal16"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/sixteen/2.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Водовъртеж"</div>
             <div className="portfolio-caption-subheading text-muted">
               Права стълба на няколко етажа
@@ -42,18 +42,18 @@ export default function Stairs() {
             data-bs-toggle="modal"
             href="#portfolioModal17"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/seventeen/1.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,По пътя нагоре"</div>
             <div className="portfolio-caption-subheading text-muted">
               Стълба тип ,,пачи крак"
@@ -69,18 +69,18 @@ export default function Stairs() {
             data-bs-toggle="modal"
             href="#portfolioModal18"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/eighteen/11.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Морско дъно"</div>
             <div className="portfolio-caption-subheading text-muted">
               Перфектното допълнение за вашия интериор

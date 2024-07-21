@@ -5,12 +5,27 @@
 }
 
 #s1, #s2, #s3, #s4 {
-  width: 350px;
+  width: 340px;
   border-radius: 25px;
   box-shadow: 5px 5px 5px blueviolet;
+}
+
+@media only screen and (max-width: 498px) {
+  #s1, #s2, #s3, #s4 {
+    width: 250px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px blueviolet;
+  }
 }
 
 .purple {
   border-radius: 25px;
   box-shadow: 5px 5px 5px blueviolet;
 }
+
+@media only screen and (max-width: 498px) {
+  #whirl-title {
+    font-size: 24px;
+  }
+}
+

@@ -19,7 +19,9 @@ export default function Tables() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">,,Червеният дявол"</h2>
+                    <h2 className="text-uppercase" id="devil-title">
+                      ,,Червеният дявол"
+                    </h2>
                     <p className="item-intro text-muted">
                       Е перфектната маса за Вашия дом!
                     </p>

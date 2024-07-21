@@ -13,18 +13,18 @@ export default function Houses() {
             data-bs-toggle="modal"
             href="#portfolioModal1"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/modern_house.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Норвежка перла"</div>
             <div className="portfolio-caption-subheading text-muted">
               Стилна двуетажна къща
@@ -40,18 +40,18 @@ export default function Houses() {
             data-bs-toggle="modal"
             href="#portfolioModal3"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/second/finish.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Пазителите"</div>
             <div className="portfolio-caption-subheading text-muted">
               Великолепна, двуетажна къща
@@ -67,18 +67,18 @@ export default function Houses() {
             data-bs-toggle="modal"
             href="#portfolioModal2"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/third/41.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Мечтан дом"</div>
             <div className="portfolio-caption-subheading text-muted">
               Дървена къща с беседка и параклис

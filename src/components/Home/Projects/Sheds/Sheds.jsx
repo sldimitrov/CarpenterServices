@@ -15,18 +15,18 @@ export default function Sheds() {
             data-bs-toggle="modal"
             href="#portfolioModal4"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/forth/finished.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">
               За целия китайски народ
             </div>
@@ -44,19 +44,19 @@ export default function Sheds() {
             data-bs-toggle="modal"
             href="#portfolioModal5"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/fifth/18.jpg"
               id="shed-photo"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">
               ,,Прекарайте време навън"
             </div>
@@ -74,18 +74,18 @@ export default function Sheds() {
             data-bs-toggle="modal"
             href="#portfolioModal6"
           >
-            <div className="portfolio-hover">
+            <div className="portfolio-hover portfolio">
               <div className="portfolio-hover-content">
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
             <img
-              className="img-fluid"
+              className="img-fluid modal-img"
               src="assets/img/portfolio/sixth/bekira.jpg"
               alt="..."
             />
           </a>
-          <div className="portfolio-caption">
+          <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Заведение Бекира"</div>
             <div className="portfolio-caption-subheading text-muted">
               Скоро отваря врати...

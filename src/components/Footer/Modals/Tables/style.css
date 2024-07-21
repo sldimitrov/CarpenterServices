@@ -60,3 +60,10 @@
   box-shadow: 3px 3px 3px rgb(19, 227, 19);
 
 }
+
+@media only screen and (max-width: 498px) {
+  #devil-title {
+    font-size: 25px;
+  }
+}
+

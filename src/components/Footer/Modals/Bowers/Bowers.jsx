@@ -19,7 +19,9 @@ export default function Bowers() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Бистро ,,Градина"</h2>
+                    <h2 className="text-uppercase" id="gradina">
+                      Бистро ,,Градина"
+                    </h2>
                     <p className="item-intro text-muted">Банкетна зала, бар</p>
                     <div className="image-container">
                       <img
@@ -385,7 +387,9 @@ export default function Bowers() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">Заведение ,,Аетос"</h2>
+                    <h2 className="text-uppercase" id="restaurant">
+                      Заведение ,,Аетос"
+                    </h2>
                     <p className="item-intro text-muted">
                       Прекрасен интериор с подслон.
                     </p>

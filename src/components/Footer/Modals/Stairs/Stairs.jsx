@@ -19,7 +19,9 @@ export default function Stairs() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">,,Водовъртеж"</h2>
+                    <h2 className="text-uppercase" id="whirl-title">
+                      ,,Водовъртеж"
+                    </h2>
                     <p className="item-intro text-muted">
                       Права стълба на няколко етажа
                     </p>

@@ -237,7 +237,9 @@ export default function Bungalows() {
                 <div className="col-lg-8">
                   <div className="modal-body">
                     {/* Project details*/}
-                    <h2 className="text-uppercase">,,Бунгало за гости"</h2>
+                    <h2 className="text-uppercase" id="title-size">
+                      ,,Бунгало за гости"
+                    </h2>
                     <p className="item-intro text-muted">
                       С тематични колони .
                     </p>
