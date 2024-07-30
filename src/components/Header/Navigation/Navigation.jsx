@@ -38,7 +38,7 @@ export default function Navigation() {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#portfolio" id="link">
-                  <div class="dropdown">
+                  <div className="dropdown">
                     <button
                       className="btn btn-secondary dropdown-toggle"
                       type="button"

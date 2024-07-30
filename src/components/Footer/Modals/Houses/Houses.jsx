@@ -440,7 +440,6 @@ export default function Houses() {
                       огромна банкетна зала, офиси, склад. На втория етаж са
                       разположени 4 апартамента.
                     </p>
-
                     <button
                       className="btn btn-primary btn-xl text-uppercase"
                       data-bs-dismiss="modal"
