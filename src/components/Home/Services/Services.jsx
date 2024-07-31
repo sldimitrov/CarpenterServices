@@ -486,7 +486,7 @@ export default function Services() {
                   <img
                     src={stairsIcon}
                     alt="black wooden stairs"
-                    className="icon"
+                    className="icon sm:max-w-78"
                   ></img>
                 </form>
               </a>
