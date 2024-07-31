@@ -1,3 +1,7 @@
+import firstHouse from "../../../../pictures/img/modern_house.jpg";
+import secondHouse from "../../../../pictures/img/portfolio/second/finish.jpg";
+import thirdHouse from "../../../../pictures/img/portfolio/third/41.jpg";
+
 export default function Houses() {
   return (
     <>
@@ -18,11 +22,7 @@ export default function Houses() {
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
-            <img
-              className="img-fluid modal-img"
-              src="assets/img/modern_house.jpg"
-              alt="..."
-            />
+            <img className="img-fluid modal-img" src={firstHouse} alt="..." />
           </a>
           <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Норвежка перла"</div>
@@ -45,11 +45,7 @@ export default function Houses() {
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
-            <img
-              className="img-fluid modal-img"
-              src="assets/img/portfolio/second/finish.jpg"
-              alt="..."
-            />
+            <img className="img-fluid modal-img" src={secondHouse} alt="..." />
           </a>
           <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Пазителите"</div>
@@ -72,11 +68,7 @@ export default function Houses() {
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
-            <img
-              className="img-fluid modal-img"
-              src="assets/img/portfolio/third/41.jpg"
-              alt="..."
-            />
+            <img className="img-fluid modal-img" src={thirdHouse} alt="..." />
           </a>
           <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Мечтан дом"</div>
