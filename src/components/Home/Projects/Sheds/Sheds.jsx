@@ -23,7 +23,7 @@ export default function Sheds() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/forth/finished.jpg"
-              alt="..."
+              alt="огромен дървен навес над 10 метра със основни греди 25x25см"
             />
           </a>
           <div className="portfolio-caption caption">
@@ -53,7 +53,7 @@ export default function Sheds() {
               className="img-fluid modal-img"
               src="assets/img/portfolio/fifth/18.jpg"
               id="shed-photo"
-              alt="..."
+              alt="просторна дървена беседка"
             />
           </a>
           <div className="portfolio-caption caption">
@@ -82,7 +82,7 @@ export default function Sheds() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/sixth/bekira.jpg"
-              alt="..."
+              alt="дървено заведение, навеси, покрив, основна конструкция"
             />
           </a>
           <div className="portfolio-caption caption">

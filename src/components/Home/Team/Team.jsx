@@ -18,7 +18,7 @@ export default function Team() {
                 className="mx-auto rounded-circle"
                 src="assets/img/team/teodor.png"
                 id="teodor-pic"
-                alt="..."
+                alt="Director in official clothing"
               />
               <h4>Теодор Димитров</h4>
               <p className="text-muted">Изпълнителен директор</p>
@@ -48,7 +48,7 @@ export default function Team() {
                 className="mx-auto rounded-circle"
                 src="assets/img/team/slavi-main.jpg"
                 id="manager-photo"
-                alt="..."
+                alt="Software engineer of the"
               />
               <h4>Слави Димитров</h4>
               <p className="text-muted">Управител</p>
@@ -79,7 +79,7 @@ export default function Team() {
                 className="mx-auto rounded-circle"
                 src="assets/img/team/slavi.jpg"
                 id="slavi-pic"
-                alt="..."
+                alt="CEO of the firm"
               />
               <h4>Слави Димитров</h4>
               <p className="text-muted">Софтуерен инженер</p>

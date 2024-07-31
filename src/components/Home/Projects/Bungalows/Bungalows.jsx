@@ -23,7 +23,7 @@ export default function Bungalows() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/thirteen/1.jpg"
-              alt="..."
+              alt="бяло дървено бунгало до морето"
             />
           </a>
           <div className="portfolio-caption">
@@ -52,7 +52,7 @@ export default function Bungalows() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/fourteen/1.jpg"
-              alt="..."
+              alt="дървено бунгало с каменни греди"
             />
           </a>
           <div className="portfolio-caption caption">
@@ -79,7 +79,7 @@ export default function Bungalows() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/fifteen/1.jpg"
-              alt="..."
+              alt="дървени бунгала за младоженци на два етажа"
             />
           </a>
           <div className="portfolio-caption caption">

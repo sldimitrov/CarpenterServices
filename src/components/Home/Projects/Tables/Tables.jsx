@@ -23,7 +23,7 @@ export default function Tables() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/ten/1.jpg"
-              alt="..."
+              alt="дървена маса с червена епоксидна смола"
             />
           </a>
           <div className="portfolio-caption caption">
@@ -50,7 +50,7 @@ export default function Tables() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/eleven/1.png"
-              alt="..."
+              alt="дървена маса със синя епоксидна смола"
             />
           </a>
           <div className="portfolio-caption caption">
@@ -77,7 +77,7 @@ export default function Tables() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/twelve/3.png"
-              alt="..."
+              alt="дървена маса светеща в тъмното с форфор и епоксидна смола"
             />
           </a>
           <div className="portfolio-caption caption">

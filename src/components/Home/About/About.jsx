@@ -21,7 +21,7 @@ export default function About() {
                 className="photo rounded-circle img-fluid"
                 src={begginningImg}
                 id="first"
-                alt="..."
+                alt="two of the directors of the firms equipped with tools"
               />
             </div>
             <div className="timeline-panel">
@@ -45,7 +45,7 @@ export default function About() {
                 className="photo rounded-circle img-fluid"
                 src="assets/img/naves3.jpg"
                 id="second"
-                alt="..."
+                alt="an enourmous wooden shed located in Karnobat"
               />
             </div>
             <div className="timeline-panel">
@@ -69,7 +69,7 @@ export default function About() {
                 className="photo rounded-circle img-fluid"
                 src={specializationImg}
                 id="third"
-                alt="..."
+                alt="one of our biggest wooden houses 'Bekira'"
               />
             </div>
             <div className="timeline-panel">
@@ -94,7 +94,7 @@ export default function About() {
                 className="photo rounded-circle img-fluid"
                 src="assets/img/modern_house.jpg"
                 id="forth"
-                alt="..."
+                alt="modern wooden house with white overview"
               />
             </div>
             <div className="timeline-panel">

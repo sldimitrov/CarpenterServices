@@ -23,7 +23,7 @@ export default function Bowers() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/seventh/shed_3.jpg"
-              alt="..."
+              alt="дървено заведение, беседка"
             />
           </a>
           <div className="portfolio-caption caption">
@@ -50,7 +50,7 @@ export default function Bowers() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/eight/24.jpg"
-              alt="..."
+              alt="дървена беседка"
             />
           </a>
           <div className="portfolio-caption caption">
@@ -77,7 +77,7 @@ export default function Bowers() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/nine/1.jpg"
-              alt="..."
+              alt="дървено заведение с декинг, дървени маси и столове"
             />
           </a>
           <div className="portfolio-caption caption">

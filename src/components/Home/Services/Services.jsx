@@ -22,7 +22,11 @@ export default function Services() {
             <div className="icon-container">
               <a href="#bowers">
                 <form className="icon-bg">
-                  <img src={shedIcon} alt="gear" className="icon"></img>
+                  <img
+                    src={shedIcon}
+                    alt="black wooden shed"
+                    className="icon"
+                  ></img>
                 </form>
               </a>
             </div>
@@ -110,7 +114,11 @@ export default function Services() {
               <div className="icon-container">
                 <a href="#portfolio">
                   <form className="icon-bg">
-                    <img src={housesIcon} alt="gear" className="icon"></img>
+                    <img
+                      src={housesIcon}
+                      alt="wooden house that fits in a hand"
+                      className="icon"
+                    ></img>
                   </form>
                 </a>
               </div>
@@ -195,7 +203,11 @@ export default function Services() {
             <div className="icon-container">
               <a href="#sheds">
                 <form className="icon-bg">
-                  <img src={shelterIcon} alt="gear" className="icon"></img>
+                  <img
+                    src={shelterIcon}
+                    alt="black wooden shelter"
+                    className="icon"
+                  ></img>
                 </form>
               </a>
             </div>
@@ -211,7 +223,6 @@ export default function Services() {
               <path d="m8 0 6.61 3h.89a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H15v7a.5.5 0 0 1 .485.38l.5 2a.498.498 0 0 1-.485.62H.5a.498.498 0 0 1-.485-.62l.5-2A.5.5 0 0 1 1 13V6H.5a.5.5 0 0 1-.5-.5v-2A.5.5 0 0 1 .5 3h.89zM3.777 3h8.447L8 1zM2 6v7h1V6zm2 0v7h2.5V6zm3.5 0v7h1V6zm2 0v7H12V6zM13 6v7h1V6zm2-1V4H1v1zm-.39 9H1.39l-.25 1h13.72z" />
             </svg>
             <p className="text-muted">
-              {" "}
               Дървени навеси, под които да се съберете с най-близките Ви хора на
               света!
             </p>
@@ -219,6 +230,7 @@ export default function Services() {
               width="16"
               height="16"
               viewBox="0 0 16 16"
+              alt="black wooden shed"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
             >
@@ -283,7 +295,11 @@ export default function Services() {
             <div className="icon-container">
               <a href="#tables">
                 <form className="icon-bg">
-                  <img src={tableIcon} alt="gear" className="icon" />
+                  <img
+                    src={tableIcon}
+                    alt="black wooden table"
+                    className="icon"
+                  />
                 </form>
               </a>
             </div>
@@ -467,7 +483,11 @@ export default function Services() {
             <div className="icon-container">
               <a href="#stairs">
                 <form className="icon-bg">
-                  <img src={stairsIcon} alt="gear" className="icon"></img>
+                  <img
+                    src={stairsIcon}
+                    alt="black wooden stairs"
+                    className="icon"
+                  ></img>
                 </form>
               </a>
             </div>

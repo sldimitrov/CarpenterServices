@@ -22,7 +22,11 @@ export default function Houses() {
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
-            <img className="img-fluid modal-img" src={firstHouse} alt="..." />
+            <img
+              className="img-fluid modal-img"
+              src={firstHouse}
+              alt="бяла дървена къща на два етажа"
+            />
           </a>
           <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Норвежка перла"</div>
@@ -45,7 +49,11 @@ export default function Houses() {
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
-            <img className="img-fluid modal-img" src={secondHouse} alt="..." />
+            <img
+              className="img-fluid modal-img"
+              src={secondHouse}
+              alt="огромна дървена със стабилна конструкция, 4 спални и още"
+            />
           </a>
           <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Пазителите"</div>
@@ -68,7 +76,11 @@ export default function Houses() {
                 <i className="fas fa-plus fa-3x" />
               </div>
             </div>
-            <img className="img-fluid modal-img" src={thirdHouse} alt="..." />
+            <img
+              className="img-fluid modal-img"
+              src={thirdHouse}
+              alt="дървена къща с басейн отпред, веранда, параклис, беседка"
+            />
           </a>
           <div className="portfolio-caption caption">
             <div className="portfolio-caption-heading">,,Мечтан дом"</div>

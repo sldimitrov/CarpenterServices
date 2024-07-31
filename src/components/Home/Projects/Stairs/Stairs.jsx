@@ -23,7 +23,7 @@ export default function Stairs() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/sixteen/2.jpg"
-              alt="..."
+              alt="право, дървено стълбище с LED осветление"
             />
           </a>
           <div className="portfolio-caption caption">
@@ -50,7 +50,7 @@ export default function Stairs() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/seventeen/1.jpg"
-              alt="..."
+              alt="вита дървена стълба"
             />
           </a>
           <div className="portfolio-caption caption">
@@ -77,7 +77,7 @@ export default function Stairs() {
             <img
               className="img-fluid modal-img"
               src="assets/img/portfolio/eighteen/11.jpg"
-              alt="..."
+              alt="дървена стълба, която перфектно допълва белия интериора"
             />
           </a>
           <div className="portfolio-caption caption">
