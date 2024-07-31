@@ -1,3 +1,6 @@
+import begginningImg from "../../../pictures/beggining.jpg";
+import specializationImg from "../../../pictures/img/portfolio/second/finish.jpg";
+
 export default function About() {
   return (
     <section className="page-section" id="about">
@@ -16,7 +19,7 @@ export default function About() {
             <div className="timeline-image">
               <img
                 className="photo rounded-circle img-fluid"
-                src="assets/img/about/beggining.jpg"
+                src={begginningImg}
                 id="first"
                 alt="..."
               />
@@ -64,7 +67,7 @@ export default function About() {
             <div className="timeline-image">
               <img
                 className="photo rounded-circle img-fluid"
-                src="assets/img/about/big_projects.jpg"
+                src={specializationImg}
                 id="third"
                 alt="..."
               />
