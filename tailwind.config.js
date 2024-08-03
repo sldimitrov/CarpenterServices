@@ -18,6 +18,14 @@ module.exports = {
       "2xl": "1536px",
       // => @media (min-width: 1536px) { ... }
     },
+    extend: {
+      spacing: {
+        14: "4rem",
+        15: "3.75rem",
+        128: "32rem",
+        144: "36rem",
+      },
+    },
   },
   plugins: [],
 };
