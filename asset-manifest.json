@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CarpenterServices/static/css/main.93fc7604.css",
+    "main.css": "/CarpenterServices/static/css/main.4d59a327.css",
     "main.js": "/CarpenterServices/static/js/main.e6985468.js",
     "static/media/41.jpg": "/CarpenterServices/static/media/41.20a3c34b2c8109547e9b.jpg",
     "static/media/carpentersLogo.png": "/CarpenterServices/static/media/carpentersLogo.cdfc108ee3eccf0bb5a0.png",
@@ -10,11 +10,11 @@
     "static/media/house.png": "/CarpenterServices/static/media/house.16b0571893581101d846.png",
     "static/media/shelter.png": "/CarpenterServices/static/media/shelter.19beac6b707a4e9ce10f.png",
     "index.html": "/CarpenterServices/index.html",
-    "main.93fc7604.css.map": "/CarpenterServices/static/css/main.93fc7604.css.map",
+    "main.4d59a327.css.map": "/CarpenterServices/static/css/main.4d59a327.css.map",
     "main.e6985468.js.map": "/CarpenterServices/static/js/main.e6985468.js.map"
   },
   "entrypoints": [
-    "static/css/main.93fc7604.css",
+    "static/css/main.4d59a327.css",
     "static/js/main.e6985468.js"
   ]
 }
