@@ -13,6 +13,14 @@ export default function Masthead() {
           <a className="btn btn-primary btn-xl text-uppercase" href="#services">
             Искам да знам повече
           </a>
+          <div class="header-img">
+            <img
+              style={{ display: "none" }}
+              fetchPriority="high"
+              src="images/header-bg.jpg"
+              alt="background of the firm"
+            />
+          </div>
         </div>
       </header>
     </>
