@@ -33,8 +33,8 @@ export default function Services() {
             <h4 className="my-3">Беседки</h4>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               fill="currentColor"
               className="bi bi-chat-left-heart w-14"
               viewBox="0 0 16 16"
@@ -48,8 +48,8 @@ export default function Services() {
             </p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               fill="currentColor"
               className="bi bi-emoji-heart-eyes"
               viewBox="0 0 16 16"
@@ -63,8 +63,8 @@ export default function Services() {
             </p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               fill="currentColor"
               className="bi bi-eye-slash"
               viewBox="0 0 16 16"
@@ -76,8 +76,8 @@ export default function Services() {
             <p className="text-muted">Оригинален дизайн</p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               fill="currentColor"
               className="bi bi-hourglass-split"
               viewBox="0 0 16 16"
@@ -86,8 +86,8 @@ export default function Services() {
             </svg>
             <p className="text-muted">Лесен монтаж</p>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
