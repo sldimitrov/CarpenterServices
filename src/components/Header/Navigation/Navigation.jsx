@@ -1,6 +1,8 @@
 import logo from "../../../pictures/carpentersLogo.png";
 
 export default function Navigation() {
+  const liClasses = "nav-item bg-dark";
+
   return (
     <>
       {/* Navigation*/}
@@ -8,7 +10,7 @@ export default function Navigation() {
         className="navbar navbar-expand-lg navbar-dark fixed-top"
         id="mainNav"
       >
-        <div className="container" id="header-container">
+        <div className="container p-0" id="header-container">
           <a href="#page-top">
             <img
               id="logo-icon"
@@ -29,16 +31,19 @@ export default function Navigation() {
             Меню
             <i className="fas fa-bars ms-1" />
           </button>
-          <div className="collapse navbar-collapse" id="navbarResponsive">
+          <div
+            className="collapse navbar-collapse p-3 bg-dark"
+            id="navbarResponsive"
+          >
             <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-              <li className="nav-item">
+              <li className="nav-item bg-dark">
                 <a className="nav-link" href="#services">
                   Услуги
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#portfolio" id="link">
-                  <div className="dropdown">
+                  <div className="dropdown bg-dark">
                     <button
                       className="btn btn-secondary dropdown-toggle"
                       type="button"
@@ -83,17 +88,17 @@ export default function Navigation() {
                   </div>
                 </a>
               </li>
-              <li className="nav-item">
+              <li className={liClasses}>
                 <a className="nav-link" href="#about">
                   Относно
                 </a>
               </li>
-              <li className="nav-item">
+              <li className={liClasses}>
                 <a className="nav-link" href="#team">
                   Екип
                 </a>
               </li>
-              <li className="nav-item">
+              <li className={liClasses}>
                 <a className="nav-link" href="#contact">
                   Контакти
                 </a>

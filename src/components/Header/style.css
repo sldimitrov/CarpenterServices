@@ -3,6 +3,7 @@ a::placeholder {
 }
 
 #mainNav {
+  padding: 0;
   padding: 0px;
   height: 125px;
 }
