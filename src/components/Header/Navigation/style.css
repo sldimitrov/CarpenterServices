@@ -22,3 +22,14 @@
     margin-left: 15px;
   }
 }
+
+@media only screen and (max-width: 992px) {
+  #navbarResponsive {
+    background: rgba(33,37,41,255);
+    width: 100%;
+  }
+
+  #header-container {
+    background: rgba(255, 255, 255, 0.0);
+  }
+}
