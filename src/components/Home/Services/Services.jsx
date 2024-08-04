@@ -169,8 +169,8 @@ export default function Services() {
             </p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               fill="currentColor"
               className="bi bi-fast-forward"
               viewBox="0 0 16 16"
@@ -186,8 +186,8 @@ export default function Services() {
             <p className="text-muted">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="16"
-                height="16"
+                width="32"
+                height="32"
                 fill="currentColor"
                 className="bi bi-recycle"
                 viewBox="0 0 16 16"
@@ -214,8 +214,8 @@ export default function Services() {
             <h4 className="my-3">Навеси</h4>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               fill="currentColor"
               className="bi bi-bank"
               viewBox="0 0 16 16"
@@ -227,8 +227,8 @@ export default function Services() {
               света!
             </p>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               alt="black wooden shed"
               fill="none"
@@ -245,8 +245,8 @@ export default function Services() {
             </p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               fill="currentColor"
               className="bi bi-eye-slash"
               viewBox="0 0 16 16"
@@ -258,8 +258,8 @@ export default function Services() {
             <p className="text-muted">Оригинален дизайн</p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               fill="currentColor"
               className="bi bi-hourglass-split"
               viewBox="0 0 16 16"
@@ -268,8 +268,8 @@ export default function Services() {
             </svg>
             <p className="text-muted">Монтаж-песен</p>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -305,8 +305,8 @@ export default function Services() {
             </div>
             <h4 className="my-3">Маси с епоксидна смола</h4>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -353,8 +353,8 @@ export default function Services() {
               са за Вас!
             </p>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -370,8 +370,8 @@ export default function Services() {
               любим човек!
             </p>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -406,8 +406,8 @@ export default function Services() {
               <form className="icon-bg">
                 <a className="dropdown-item" href="#bungalows">
                   <svg
-                    width="80"
                     height="80"
+                    width="80"
                     viewBox="0 0 16 16"
                     fill="none"
                     xmlns="http://www.w3.org/2000/svg"
@@ -422,8 +422,8 @@ export default function Services() {
             </div>
             <h4 className="my-3">Бунгала</h4>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -449,8 +449,8 @@ export default function Services() {
               Дървени бунгала, приковаващи вниманието от пръв поглед!
             </p>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -464,8 +464,8 @@ export default function Services() {
               Предпочитани от семейства или пригодявани за къщи за гости.
             </p>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -493,8 +493,8 @@ export default function Services() {
             </div>
             <h4 className="my-3">Стълби</h4>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -517,8 +517,8 @@ export default function Services() {
               Нашите стилни стълби могат да украсят интериора на Вашия дом!
             </p>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
@@ -534,8 +534,8 @@ export default function Services() {
               Предлагаме Ви избор измежду прави и извити стълби.
             </p>
             <svg
-              width="16"
-              height="16"
+              width="32"
+              height="32"
               viewBox="0 0 16 16"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
